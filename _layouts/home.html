@@ -1,0 +1,13 @@
+---
+layout: archive
+---
+
+<h1>Blog Articles</h1>
+
+{% for post in paginator.posts %}
+{% if post.category == 'articles' %}
+  {% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
+{% include paginator.html %}

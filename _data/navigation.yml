@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Articles"
+    url: /articles/
+  - title: "Today I learned"
+    url: /til/
