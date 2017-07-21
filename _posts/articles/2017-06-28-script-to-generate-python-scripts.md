@@ -1,5 +1,5 @@
 ---
-title: Script to genrate python scripts
+title: Script to generate python scripts
 tags: [Python]
 ---
   
