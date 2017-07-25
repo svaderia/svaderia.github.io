@@ -156,5 +156,7 @@ If you feel something is missing, add it to
 the file and send a pull request.  
 You are free to add more commands related to git to this notes.
 Cheers!  
+
+
 This post was originally written by me on [gujjucoders.me](http://gujjucoders.me).
 {: .notice--warning} 
