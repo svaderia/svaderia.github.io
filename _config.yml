@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Shyamal's Garage"
+title                    : "Shyamal Vaderia"
 title_separator          : ""
 name                     : "Shyamal Vaderia"
 description              : "A place to dump my thoughts."
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Shyamal Vaderia"
-  avatar           : /assets/images/Shyamal.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/Shyamal.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine Learning enthusiast and Python lover"
   location         : "BITS Pilani, India"
   email            : "vaderiashyamal@gmail.com"
