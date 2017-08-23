@@ -1,7 +1,6 @@
 ---
 title: Styling in kramdown
 tags: [Jekyll]
-hidden: true
 ---
 
 A year spent in **Artificial Intelligence** is enough to make one believe in god. --Alan Perlis

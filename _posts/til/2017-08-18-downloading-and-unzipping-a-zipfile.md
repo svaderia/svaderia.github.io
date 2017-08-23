@@ -1,7 +1,6 @@
 ---
 title: Downloading and Unzippig a Zip File 
 tags: [Python]
-hidden: true
 ---
 
 There might be a case where you want to download and unzip a file from given URL. Well
