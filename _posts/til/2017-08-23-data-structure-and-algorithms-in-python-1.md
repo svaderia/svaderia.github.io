@@ -2,10 +2,13 @@
 title: Data Structure and Algorithms in Python-1
 tags: [Python]
 excerpt: Notes on Chapter 1 and 2 of Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
+header:
+      image: /assets/images/dsa.png
+      teaser: /assets/images/dsa.png
 ---
 This post contains my notes while I was reading [Data Structures and Algorithms in Python](http://www.amazon.in/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
 
-# Chapter 1
+# Chapter 1 - Python Primer
 * Python’s syntax relies heavily on the use of `whitespace`. Individual statements
 are typically concluded with a `newline` character, although a command can extend
 to another line, either with a concluding `backslash character (\)`, or if an opening
@@ -206,7 +209,7 @@ syntax, `condition ? expr1 : expr2`, in those languages.
    * `choice(seq)`:              Returns an element of the given sequence chosen pseudo-randomly.
    * `shuffle(seq)`:             Reorders the elements of the given sequence pseudo-randomly.
 
-# Chapter 2
+# Chapter 2 - OOP in Python
 ---
 ## Special methods for Class.
 ```python

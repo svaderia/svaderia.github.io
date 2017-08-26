@@ -1,6 +1,9 @@
 ---
 title: Styling in kramdown
 tags: [Jekyll]
+header:
+      image: /assets/images/kram.jpg
+      teaser: /assets/images/kram.jpg
 ---
 
 A year spent in **Artificial Intelligence** is enough to make one believe in god. --Alan Perlis

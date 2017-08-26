@@ -1,6 +1,9 @@
 ---
 title: Downloading and Unzippig a Zip File 
 tags: [Python]
+header:
+      image: /assets/images/python.jpg
+      teaser: /assets/images/python.png
 ---
 
 There might be a case where you want to download and unzip a file from given URL. Well

@@ -1,6 +1,9 @@
 ---
 title: Git Quick Notes
 tags: [git]
+header:
+      image: /assets/images/git.jpg
+      teaser: /assets/images/git.jpg
 ---
 
 Git is very powerful tool which all of us going to use at some point of time.

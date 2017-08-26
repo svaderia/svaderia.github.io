@@ -1,6 +1,9 @@
 ---
 title: Numpy Quick notes
 tags: [Python]
+header:
+      image: /assets/images/python.png
+      teaser: /assets/images/numpy.jpg
 ---
 
 **Numpy** library provides you with an array data structure that holds some benefits over Python lists, 
