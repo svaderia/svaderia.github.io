@@ -7,7 +7,7 @@ header:
       teaser: /assets/images/dsa.png
 ---
 
-# Chapter 3 - Algorithm Analysis
+## Chapter 3 - Algorithm Analysis
 ### Big-Oh Notation:
 Let `f(n)` and `g(n)` be functions mapping positive integers to positive real numbers.
 We say that `f(n)` is `O(g(n))` if there is a real constant `c > 0` and an integer constant
@@ -29,7 +29,7 @@ same rate, up to constant factors. We say that `f(n)` is `Θ(g(n))`, pronounced 
 constants c<sub>1</sub> > 0 and c<sub>2</sub> > 0, and an integer constant n<sub>0</sub> ≥ 1 such that,
 > c<sub>1</sub> g(n) ≤ f(n) ≤ c<sub>2</sub> g(n), for n ≥ n<sub>0</sub>.
 
-# Chapter 4 - Recursion
+## Chapter 4 - Recursion
 * Python interpreter can be dynamically reconfigured to change
 the default recursive limit. This is done through use of a module named sys, which
 supports a `getrecursionlimit` function and a `setrecursionlimit`. Sample usage of
