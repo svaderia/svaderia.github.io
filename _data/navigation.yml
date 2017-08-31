@@ -2,9 +2,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Articles"
+  - title: "Projects"
+    url: /projects/
+  - title: "Experience"
+    url: /experience/
+  - title: "Organisations"
+    url: /organisations/
+  - title: "Resume"
+    url: /resume/
+  - title: "Blog"
     url: /articles/
   - title: "Today I learned"
     url: /til/
-  - title: "Resume"
-    url: /resume/
