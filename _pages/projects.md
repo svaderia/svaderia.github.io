@@ -44,7 +44,7 @@ Micro-Processor. An assembly script was used to run the model.
 compact construction of bloom filters and variants” by N. Hua, H. C. Zhao, B.
 Lin, and J. Xu.
 * Gave a Lecture on [**`Introduction to Machine learning`**](/into_to_ml/)  as part of a [**`Workshop`**](https://github.com/svaderia/ML_Hackathon)
-organized by  
+organized by
 BITS-ACM during the college Technical Festival [**`APOGEE BITS-PILANI.`**](https://www.bits-apogee.org/2017/)
 * Successfully conducted a [**`ML hackathon`**](https://inclass.kaggle.com/c/mapmyindia2) on kaggle in collaboration with
 [**`MapMyIndia`**](http://www.mapmyindia.com/) during the college Technical Festival [**`APOGEE BITS-PILANI.`**](https://www.bits-apogee.org/2017/)
