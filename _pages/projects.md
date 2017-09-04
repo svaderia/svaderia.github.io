@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 permalink: /projects/
 header:
-  image: /assets/images/proj5.jpg
+  image: /assets/images/proj15.jpeg
 ---
 {{ page.excerpt | markdownify }}
 # Projects
