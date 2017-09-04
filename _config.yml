@@ -262,3 +262,15 @@ defaults:
       related: true
       category: til
       hidden: true
+  - scope:
+      path: _posts/dsa
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      category: dsa
+      hidden: true

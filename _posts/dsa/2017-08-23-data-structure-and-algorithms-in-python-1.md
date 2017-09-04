@@ -3,10 +3,10 @@ title: Data Structure and Algorithms in Python-1
 tags: [Python, OOP]
 excerpt: Notes on Chapter 1 and 2 of Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
 header:
-      image: /assets/images/dsa.png
+      image: /assets/images/dsa2.png
       teaser: /assets/images/dsa.png
 ---
-This post contains my notes while I was reading [Data Structures and Algorithms in Python](http://www.amazon.in/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
+
 
 ## Chapter 1 - Python Primer
 * Python’s syntax relies heavily on the use of `whitespace`. Individual statements
