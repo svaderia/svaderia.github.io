@@ -40,14 +40,14 @@ Micro-Processor. An assembly script was used to run the model.
 
 # Mini Projects and Academic Activities
 
-* Wrote a [Critique](/critique/){: .btn .btn--inverse} and an executive summary on “Rank-indexed hashing: A
+* Wrote a [**`Critique`**](/critique/) and an executive summary on “Rank-indexed hashing: A
 compact construction of bloom filters and variants” by N. Hua, H. C. Zhao, B.
 Lin, and J. Xu.
-* Gave a Lecture on [Introduction to Machine learning](/into_to_ml/){: .btn .btn--inverse}  as part of a [Workshop](https://github.com/svaderia/ML_Hackathon){: .btn .btn--inverse}
+* Gave a Lecture on [**`Introduction to Machine learning`**](/into_to_ml/)  as part of a [**`Workshop`**](https://github.com/svaderia/ML_Hackathon)
 organized by  
-BITS-ACM during the college Technical Festival [APOGEE BITS-PILANI.](https://www.bits-apogee.org/2017/){: .btn .btn--inverse}
-* Successfully conducted a [ML hackathon](https://inclass.kaggle.com/c/mapmyindia2){: .btn .btn--inverse} on kaggle in collaboration with
-[MapMyIndia](http://www.mapmyindia.com/){: .btn .btn--inverse} during the college Technical Festival **APOGEE BITS-PILANI**.
-* Run a technical [Blog](http://gujjucoder.me){: .btn .btn--inverse} wherein members can share and learn about ongoing
+BITS-ACM during the college Technical Festival [**`APOGEE BITS-PILANI.`**](https://www.bits-apogee.org/2017/)
+* Successfully conducted a [**`ML hackathon`**](https://inclass.kaggle.com/c/mapmyindia2) on kaggle in collaboration with
+[**`MapMyIndia`**](http://www.mapmyindia.com/) during the college Technical Festival [**`APOGEE BITS-PILANI.`**](https://www.bits-apogee.org/2017/)
+* Run a technical [**`Blog`**](http://gujjucoder.me) wherein members can share and learn about ongoing
 technology.
-* Acted as Moderator and Question setter in a [Python competition](https://www.hackerrank.com/bitsacm-python2){: .btn .btn--inverse} organized by BITS-ACM to enhance the coding culture of college campus. 
+* Acted as Moderator and Question setter in a [**`Python competition`**](https://www.hackerrank.com/bitsacm-python2) organized by BITS-ACM to enhance the coding culture of college campus. 
