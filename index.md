@@ -23,6 +23,6 @@ Just my baby steps into **Machine Learning** were enough to grab my interest.
 The fact that **Artificial Intelligence** can ease our life and replace us in so many situation, is what intrigues me the most.
 
 ## The Rest of Me :v:
-While not engaged in some nerdy activity, I spend my time in listening to music and reading books (mostly in my native language).
+While not engaged in some nerdy activity, I spend my time in listening to music and playing Table Tennis.
 I like to hear about people's idea and their story. Watching mind-intense movies and TV series is my favourite pastime. 
 At other times I employ my teaching skill to test by helping my brother in different topics of high school Maths, Physics and Chemistry.
