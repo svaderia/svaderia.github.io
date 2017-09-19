@@ -32,7 +32,7 @@ design. The energy efficiency is calculated in terms of the **Heating Load** and
 ## Fan Control System using 8086 Micro-Processor
 <small>April 2017</small>
 
-Designed a hardware system on ISIS 2007, Proteus to simulate the speed control and time settings for a DC Motor Fan using an 8086 
+Designed a hardware system on **ISIS 2007**, **Proteus** to simulate the speed control and time settings for a DC Motor Fan using an **8086** 
 Micro-Processor. An assembly script was used to run the model.
 
 [Code](https://github.com/svaderia/Fan_Control_System){: .btn .btn--inverse}
@@ -43,7 +43,7 @@ Micro-Processor. An assembly script was used to run the model.
 * Wrote a [**`Critique`**](/critique/) and an executive summary on “Rank-indexed hashing: A
 compact construction of bloom filters and variants” by N. Hua, H. C. Zhao, B.
 Lin, and J. Xu.
-* Gave a Lecture on [**`Introduction to Machine learning`**](/intro_to_ml/)  as part of a [**`Workshop`**](https://github.com/svaderia/ML_Hackathon)
+* Gave a Lecture on [**`Introduction to Machine learning`**](/intro_to_ml/) in layman terms as part of a [**`Workshop`**](https://github.com/svaderia/ML_Hackathon)
 organized by
 BITS-ACM during the college Technical Festival [**`APOGEE BITS-PILANI.`**](https://www.bits-apogee.org/2017/)
 * Successfully conducted a [**`ML hackathon`**](https://inclass.kaggle.com/c/mapmyindia2) on kaggle in collaboration with
