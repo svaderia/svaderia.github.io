@@ -35,7 +35,7 @@ design. The energy efficiency is calculated in terms of the **Heating Load** and
 Designed a hardware system on **ISIS 2007**, **Proteus** to simulate the speed control and time settings for a DC Motor Fan using an **8086** 
 Micro-Processor. An assembly script was used to run the model.
 
-[Code](https://github.com/svaderia/Fan_Control_System){: .btn .btn--inverse}
+[Code](https://github.com/svaderia/Fan_Control_System){: .btn .btn--inverse} [Report](https://github.com/svaderia/Fan_Control_System/blob/master/README.md){: .btn .btn--inverse}
 
 
 # Mini Projects and Academic Activities
