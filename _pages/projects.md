@@ -27,7 +27,7 @@ Developed an **Android** application to predict the dependence of Energy
 Efficiency, of a residential building in a particular area, based on its structure and
 design. The energy efficiency is calculated in terms of the **Heating Load** and **Cooling Load** of the building which can further help to modify the building design for achieving maximum possible energy conservation in future. Achieved accuracy of **98%** using **Random Forest** algorithm. 
 
-[Code](https://github.com/svaderia/Energy-Efficiency-Of-Residential-Buildings){: .btn .btn--inverse} [Presentation](/energy_efficiency/){: .btn .btn--inverse}
+[Code](https://github.com/svaderia/Energy-Efficiency-Of-Residential-Buildings){: .btn .btn--inverse} [Report](/energy_efficiency/){: .btn .btn--inverse}
 
 ## Fan Control System using 8086 Micro-Processor
 <small>April 2017</small>
