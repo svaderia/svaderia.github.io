@@ -13,9 +13,9 @@ header:
 
 Implemented a paper on Sarcasm Detection by A. Rajadesingan. 
 Dataset was mined using **Twitter API**. **NLP** was scripted in Python using **nltk**.
-Made some improvements and tweaks in **features** to better the results.
+Made some improvements and tweaks in **features** for the better results.
 Applied various classification algorithms like **Ensemle, Naive Bayes classifier, SVM, Random Forest, Adaboost, Gradient Boosting,** etc.  
-**Gradient Boosting** achieved an accuracy of **85.71%** from a feature set only
+**Gradient Boosting** achieved an accuracy of **85.71%** from a feature set of only
 **1\7<sup>th</sup>** the original size proposed in the paper.
 
 [Code](https://github.com/svaderia/Sarcasm_Detection_Twitter){: .btn .btn--inverse} [Report](/sarcasm_detection_report/){: .btn .btn--inverse}
@@ -25,7 +25,7 @@ Applied various classification algorithms like **Ensemle, Naive Bayes classifier
 
 Developed an **Android** application to predict the dependence of Energy
 Efficiency, of a residential building in a particular area, based on its structure and
-design. The energy efficiency is calculated in terms of the **Heating Load** and **Cooling Load** of the building which can further help to modify the building design for achieving maximum possible energy conservation in future.  
+design. The energy efficiency is calculated in terms of the **Heating Load** and **Cooling Load** of the building which can further help to modify the building design for achieving maximum possible energy conservation in future. Achieved accuracy of **98%** using **Random Forest** algorithm. 
 
 [Code](https://github.com/svaderia/Energy-Efficiency-Of-Residential-Buildings){: .btn .btn--inverse} [Presentation](/energy_efficiency/){: .btn .btn--inverse}
 
@@ -40,6 +40,7 @@ Micro-Processor. An assembly script was used to run the model.
 
 # Mini Projects and Academic Activities
 
+* Implemented a [**`Path Finding Agent`**](https://github.com/svaderia/Path_Finding_Agent) using Informed and Uniformed search techniques.
 * Wrote a [**`Critique`**](/critique/) and an executive summary on “Rank-indexed hashing: A
 compact construction of bloom filters and variants” by N. Hua, H. C. Zhao, B.
 Lin, and J. Xu.
