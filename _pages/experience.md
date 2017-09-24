@@ -8,7 +8,7 @@ header:
 ---
 {{ page.excerpt | markdownify }}
 # Internships
-## Summer Research Internship at UST Global, Trivendrum
+## Summer Research Internship at UST Global, Trivandrum
 <small>May 2017 - July 2017</small>  
 
 Worked on **Development of a decentralized firewall for malware detection using deep learning**.
@@ -22,7 +22,7 @@ Data of malware and benign files was modeled as **Grey-Scale images**, where eac
 ## Work from home Internship at Pillar4
 <small>August 2017 - Present </small>  
 
-Working on **Text Summarization** of news articles using **Recurrent Neural Network (RNN)** and testing it on the **TensorFlow** framework under the supervision of [**Mr. Jagadeesh Varati**](https://www.linkedin.com/in/jagadeeshvarati/), Co founder of Pillar4.
+Working on **Text Summarization** of news articles using **Recurrent Neural Network (RNN)** and testing it on the **TensorFlow** framework under the supervision of [**Mr. Jagadeesh Varati**](https://www.linkedin.com/in/jagadeeshvarati/), Co-founder of Pillar4.
 
   
   

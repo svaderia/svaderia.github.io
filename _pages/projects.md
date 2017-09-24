@@ -15,7 +15,7 @@ header:
 Implemented a paper on Sarcasm Detection by A. Rajadesingan. 
 Dataset was mined using **Twitter API**. **NLP** was scripted in Python using **nltk**.
 Made some improvements and tweaks in **features** for the better results.
-Applied various classification algorithms like **Ensemle, Naive Bayes classifier, SVM, Random Forest, Adaboost, Gradient Boosting,** etc.  
+Applied various classification algorithms like **Ensemble, Naive Bayes classifier, SVM, Random Forest, Adaboost, Gradient Boosting,** etc.  
 **Gradient Boosting** achieved an accuracy of **85.71%** from a feature set of only
 **1\7<sup>th</sup>** the original size proposed in the paper.
 
@@ -26,7 +26,7 @@ Applied various classification algorithms like **Ensemle, Naive Bayes classifier
 
 Developed an **Android** application to predict the dependence of Energy
 Efficiency, of a residential building in a particular area, based on its structure and
-design. The energy efficiency is calculated in terms of the **Heating Load** and **Cooling Load** of the building which can further help to modify the building design for achieving maximum possible energy conservation in future. Achieved accuracy of **98%** using **Random Forest** algorithm. 
+design. The energy efficiency is calculated in terms of the **Heating Load** and **Cooling Load** of the building which can further help to modify the building design for achieving maximum possible energy conservation in future. Achieved an accuracy of **98%** using **Random Forest** algorithm. 
 
 [Code](https://github.com/svaderia/Energy-Efficiency-Of-Residential-Buildings){: .btn .btn--inverse} [Report](/energy_efficiency/){: .btn .btn--inverse}
 
@@ -48,8 +48,8 @@ Lin, and J. Xu.
 * Gave a Lecture on [**`Introduction to Machine learning`**](/intro_to_ml/) in layman terms as part of a [**`Workshop`**](https://github.com/svaderia/ML_Hackathon)
 organized by
 BITS-ACM during the college Technical Festival [**`APOGEE BITS-PILANI.`**](https://www.bits-apogee.org/2017/)
-* Successfully conducted a [**`ML hackathon`**](https://inclass.kaggle.com/c/mapmyindia2) on kaggle in collaboration with
+* Successfully conducted a [**`Machine Learning hackathon`**](https://inclass.kaggle.com/c/mapmyindia2) on kaggle in collaboration with
 [**`MapMyIndia`**](http://www.mapmyindia.com/) during the college Technical Festival [**`APOGEE BITS-PILANI.`**](https://www.bits-apogee.org/2017/)
 * Run a technical [**`Blog`**](http://gujjucoder.me) wherein members can share and learn about ongoing
 technology.
-* Acted as Moderator and Question setter in a [**`Python competition`**](https://www.hackerrank.com/bitsacm-python2) organized by BITS-ACM to enhance the coding culture of college campus. 
+* Acted as Moderator and Question setter in a [**`Python competition`**](https://www.hackerrank.com/bitsacm-python2) organized by BITS-ACM to enhance the coding culture of the college campus. 
