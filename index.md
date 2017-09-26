@@ -19,8 +19,9 @@ various phenomena based on simple analogies. I have gained an amazing perspectiv
 age recognition system in my phone or a fully autonomous drone flying high in the sky.
 ## Interests :book:
 Just my baby steps into **Machine Learning** were enough to grab my interest.
-**Deep Learning**, a gentle try to mimic our brain, caught my attention as I delved deeper. 
+More specifically **Deep Learning**, a gentle try to mimic our brain, caught my attention as I delved deeper. 
 The fact that **Artificial Intelligence** can ease our life and replace us in so many situations, is what intrigues me the most.
+I also love penning down my various experiences as I walk down on this amazing path in Computer Science in the form of a [**`Blog.`**](/articles/)
 
 ## The Rest of Me :v:
 While not engaged in some nerdy activity, I spend my time in listening to music and playing Table Tennis.
