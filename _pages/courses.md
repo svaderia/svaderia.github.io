@@ -6,7 +6,7 @@ description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python
 header:
   image: /assets/images/cour.jpg
 ---
-
+{{ page.excerpt | markdownify }}
 # University Courses
 ---
 ## Computer Science Courses
@@ -31,6 +31,10 @@ header:
 * Linear Algebra (with Matrix Theory)
 * Calculus: Univariate and Multivariate, Differential and Integral
 * Differential Equations
+
+## Humanity Courses
+* Symbolic Logic
+* Dynamics of Social Change
 
 <br>
 # MOOCs
