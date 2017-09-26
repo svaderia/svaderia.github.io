@@ -68,7 +68,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: 
     - "https://twitter.com/svaderia"
-    - "https://facebook.com/ShyamalSym"
+    - "https://facebook.com/svaderia"
     - "https://github.com/svaderia"
     # - "https://www.linkedin.com/in/yourprofile"
 
@@ -86,12 +86,13 @@ author:
   bio              : "Diving Deep into the Ocean of Thoughts!"
   location         : "BITS Pilani, India"
   email            : "vaderiashyamal@gmail.com"
+  unemail          : "f2015048@pilani.bits-pilani.ac.in"
   uri              : "http://shyamalvaderia.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "ShyamalSym"
+  facebook         : "svaderia"
   foursquare       :
   github           : "svaderia"
   gitlab           :
@@ -99,12 +100,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "svaderia"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
+  contact          : "+91-9925086214"
   twitter          : "svadria"
   vine             :
   weibo            :
