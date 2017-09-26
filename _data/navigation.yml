@@ -8,6 +8,8 @@ main:
     url: /experience/
   - title: "Organisations"
     url: /organisations/
+  - title: "Courses"
+    url: /courses/
   - title: "Resume"
     url: /resume/
   - title: "Blog"
