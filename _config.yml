@@ -179,7 +179,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 4 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /articles/page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -252,18 +252,6 @@ defaults:
       share: true
       related: true
       category: articles
-  - scope:
-      path: _posts/til
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-      category: til
-      hidden: true
   - scope:
       path: _posts/dsa
       type: posts
