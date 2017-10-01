@@ -23,29 +23,3 @@ Data of malware and benign files was modeled as **Grey-Scale images**, where eac
 <small>August 2017 - Present </small>  
 
 Working on **Text Summarization** of news articles using **Recurrent Neural Network (RNN)** and testing it on the **TensorFlow** framework under the supervision of [**Mr. Jagadeesh Varati**](https://www.linkedin.com/in/jagadeeshvarati/), Co-founder of Pillar4.
-
-  
-  
-
-# Education
-## Under-Graduate Degree
-<small>2015 - Present</small>
-
-Junior  
-[**`Birla Institute of Technology and Science, Pilani`**](http://www.bits-pilani.ac.in/)  
-B.E. (hons.) Computer Science  
-Cum. GPA = 8.0
-
-## Junior College
-<small>2013 - 2015</small>   
-
-J.L. High, Ahmedabad  
-GSEB Board  
-Score(%) : 89  
-
-## Secondary School
-<small>2006 - 2013</small>   
-
-J.L. High, Ahmedabad  
-GSEB Board  
-Score(%) : 91
