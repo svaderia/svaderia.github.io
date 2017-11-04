@@ -3,8 +3,6 @@ layout: archive
 author_profile: true
 permalink: /courses/
 description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python lover, pursuing B.E.(Hons) in Computer Science from BITS Pilani, Pilani Campus, India."
-header:
-  image: /assets/images/cour.jpg
 ---
 {{ page.excerpt | markdownify }}
 # University Courses
@@ -55,7 +53,7 @@ header:
 * bash
 * Assembly 
 
-## Software / Framworks
+## Software / Frameworks
 * TensorFlow 
 * NumPy
 * MatPlotLib
