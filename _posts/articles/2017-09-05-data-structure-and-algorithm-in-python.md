@@ -12,3 +12,4 @@ This post contains my chapter wise notes of the book [Data Structures and Algori
 * [**`Chapter 1 and 2`**](/dsa/data-structure-and-algorithms-in-python-1/)
 * [**`Chapter 3 and 4`**](/dsa/data-structure-and-algorithms-in-python-2/)
 * [**`Chapter 5 and 6`**](/dsa/data-structure-and-algorithms-in-python-3/)
+* [**`Chapter 7 and 8`**](/dsa/data-structure-and-algorithms-in-python-4/)
