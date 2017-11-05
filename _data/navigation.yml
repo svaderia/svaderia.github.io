@@ -6,13 +6,13 @@ main:
     url: /projects/
   - title: "Experience"
     url: /experience/
+  - title: "Publications"
+    url: /publications/
   - title: "Organisations"
     url: /organisations/
-  - title: "Courses"
-    url: /courses/
   - title: "Resume"
     url: /resume/
+  - title: "Courses"
+    url: /courses/
   - title: "Blog"
     url: /articles/
-  # - title: "Today I learned"
-  #   url: /til/
