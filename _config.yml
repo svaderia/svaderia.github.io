@@ -11,7 +11,7 @@ title                    : "Shyamal Vaderia"
 title_separator          : ""
 name                     : "Shyamal Vaderia"
 description              : "A place to dump my thoughts."
-url                      : "http://shyamalvaderia.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://svaderia.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : "svaderia/svaderia.gihub.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,7 +87,7 @@ author:
   location         : "BITS Pilani, India"
   email            : "vaderiashyamal@gmail.com"
   unemail          : "f2015048@pilani.bits-pilani.ac.in"
-  uri              : "http://shyamalvaderia.com"
+  uri              : "https://svaderia.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
