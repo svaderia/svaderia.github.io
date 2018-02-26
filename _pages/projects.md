@@ -7,6 +7,12 @@ description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python
 {{ page.excerpt | markdownify }}
 # Projects
 
+## Speech Recognition and classification for Hindi dialects
+<small>Jan 2018 - Present</small>
+
+The aim of this projects is to study different Hindi dialects. We focus to develop a system, recognizing and transcribing hindi speech and it's dialects. This project is ongoing under the supervision of **Prof. Kamlesh Tiwari** at **AIMA Labs, BITS Pilani**.
+
+
 ## Sarcasm Detection on Twitter dataset
 <small>Feb 2017 - April 2017</small>  
 
@@ -39,6 +45,8 @@ Micro-Processor. An assembly script was used to run the model.
 
 # Mini Projects and Academic Activities
 
+* Implemented [**`SkipGram`**](https://github.com/svaderia/SkipGram) model of word2vec in tensorflow with visualization of embedding in tensorboard.
+* Implemented a variant of the [**`DBSCAN`**](https://github.com/svaderia/DBSCAN_Variant) clustering algorithm written in the functional programming paradigm.
 * Implemented a [**`Path Finding Agent`**](https://github.com/svaderia/Path_Finding_Agent) using Informed and Uniformed search techniques.
 * Wrote a [**`Critique`**](/critique/) and an executive summary on “Rank-indexed hashing: A
 compact construction of bloom filters and variants” by N. Hua, H. C. Zhao, B.
