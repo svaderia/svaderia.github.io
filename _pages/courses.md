@@ -11,6 +11,8 @@ description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python
 * Artificial Intelligence
 * Data Mining
 * Cryptography
+* Parallel Computing (ongoing)
+* Quantum Information and Computing (ongoing)
 * Data Structures and Algorithms
 * Object Oriented Programming
 * Database Systems
@@ -19,10 +21,13 @@ description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python
 * Logic in Computer Science
 * Digital Design
 * Microprocessors and Interfacing
-* Computer Architecture (Ongoing)
-* Operating Systems (Ongoing)
-* Theory of Computation (Ongoing)
-* Principles of Programming Languages (Ongoing)
+* Computer Architecture 
+* Operating Systems 
+* Theory of Computation 
+* Principles of Programming Languages 
+* Computer Networks (ongoing)
+* Design and analysis of Algorithms (ongoing)
+* Compiler construction (ongoing)
 
 ## Mathematics Courses
 * Probability and Statistics
@@ -37,6 +42,9 @@ description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python
 <br>
 # MOOCs
 ---
+* CS231n, Stanford
+* CS224n, Stanford
+* CS20I, Stanford
 * Neural Networks, Geoffrey Hinton, Coursera
 * Machine Learning, Andrew Ng, Coursera
 * Artificial Intelligence, Georgia Tech, Udacity
@@ -47,7 +55,7 @@ description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python
 ---
 ## Programming Languages
 * Python
-* C/C++
+* C
 * Java
 * Matlab / GNU Octave
 * bash
@@ -56,6 +64,7 @@ description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python
 ## Software / Frameworks
 * TensorFlow 
 * NumPy
+* OpenMPI / MPICH2
 * MatPlotLib
 * Pandas
 * Scikit-learn
