@@ -1,6 +1,7 @@
 ---
 layout: archive
 author_profile: true
+classes: wide
 description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python lover, pursuing B.E.(Hons) in Computer Science from BITS Pilani, Pilani Campus, India."
 ---
 
