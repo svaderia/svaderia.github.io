@@ -12,5 +12,5 @@ main:
     url: /resume/
   - title: "Courses"
     url: /courses/
-  - title: "Blog"
-    url: /articles/
+  - title: "Posts"
+    url: /posts/
