@@ -1,28 +1,20 @@
 ---
-layout: archive
+layout: single
 author_profile: true
 classes: wide
-description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python lover, pursuing B.E.(Hons) in Computer Science from BITS Pilani, Pilani Campus, India."
 ---
 
-{{ page.excerpt | markdownify }}
-# About me
+I am a software engineer working on 5G Access solutions at Samsung R&D, Bangalore. I graduated with a degree in Computer Science from BITS Pilani. 
+I have an undying desire to code everything I come across, be it a simple script in python or a complex algorithm for scheduling the wireless data for your device. 
+I love to see the theoretical ideas working in a real world situation. 
 
-## A quick insight :mag:
-Hey there!   
-I'm Shyamal Vaderia, currently a junior at **Birla Institute of Technology and Science Pilani, Pilani campus, India**, 
-pursuing my B.E(Hons) in **Computer Science**.  
-My journey into the realm of Computer Science evolves around writing a few lines of code that can simplify my life.
-Fortunately, my academic exposure has helped me to gain deep insights in the field. As a result, I became better at understanding and explaining
-various phenomena based on simple analogies. I have gained an amazing perspective to notice technology in everyday events, be it a simple
-age recognition system in my phone or a fully autonomous drone flying high in the sky.
-## Interests :book:
-Just my baby steps into **Machine Learning** were enough to grab my interest.
-More specifically **Deep Learning**, a gentle try to mimic our brain, caught my attention as I delved deeper. 
-The fact that **Artificial Intelligence** can ease our life and replace us in so many situations, is what intrigues me the most.
-I also love penning down my various experiences as I walk down on this amazing path in Computer Science in the form of a [**`Blog.`**](/articles/)
+The logo of this website is an Order 2 pseudo-Hilbert curve; a basic block of space filling curve also known as Hilbert's curve. 
+Formally, space filling curve is a function that gives a bijective mapping from *1D* line to *2D* space. 
+I see myself mimicking the space filling curve in a totally different context, one who is trying to bridge the gaps in his knowledge.
+That kind of justifies the name of this website in a poetic way.
 
-## The Rest of Me :v:
-While not engaged in some nerdy activity, I spend my time in listening to music and playing Table Tennis.
-I like to hear about people's idea and their story. Watching mind-intense movies and TV series is my favorite pastime. 
-At other times I employ my teaching skills to test by helping my brother in different topics of high school Maths, Physics, and Chemistry.
+During my time as a computer engineer, I have poked into few fascinating fields of Computer Science. Like Machine learning, Multiprocessor programming, software side of next generation 5G networks and most importantly DSA. Nowadays in my free time I am focusing on increasing my understanding of different algorithms and data structures by participating in online competitions.
+
+I plan to make this website an extensive place to keep my notes and share my thoughts about things I find interesting.
+
+PS: Check out this amazing explanation on [Hilbert's curve](https://www.youtube.com/watch?v=3s7h2MHQtxc) by Grant Sanderson.
