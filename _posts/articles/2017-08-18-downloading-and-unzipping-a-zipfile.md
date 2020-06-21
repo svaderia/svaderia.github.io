@@ -1,16 +1,18 @@
 ---
 title: Downloading and Unzippig a Zip File 
 tags: [Python]
+excerpt: Zipfile and shutil in python
+toc: false
+classes: wide
 ---
 
-There might be a case where you want to download and unzip a file from given URL. Well
-`Python` will always come to rescue you in any scenario.
+There might be a case where you want to download and unzip a file from given URL in your python project.
 There are multiple ways of doing it. I will document few of them here.  
 All these ways codes are tested in `Python3`.
 
-## Downloading a zip and unzipping it
+## Basic way
 Most basic way of doing it.
-We used `/tmp` folder to store our zip file because depending upon the Linux distro it will get cleared.
+We used `/tmp` folder to store our zip file because depending upon the Linux distribution it will get cleared.
 ```python
 #!/usr/bin/python3
 from urllib.request import urlopen
@@ -34,11 +36,11 @@ zf.extractall(path = '<extraction_path>')
 zf.close()
 ```
 
-## Using temp file and shutil
+## Shutil and tempfile
 In previous solution we went into the trouble of saving the temporary file in `/tmp` folder.
-But when you're using `Python` you will get an easy way around to everything.
-`Python` has a inbuild module called `tempfile` that can make a temporary file or folder for and do autocleanup afterwards.
-We will `shutil` module as well.
+But there is an easy way around in `Python`
+`Python` has a inbuild module called `tempfile` that can make a temporary file or folder for and do auto cleanup afterwards.
+We will use `shutil` module instead of zipfile in this example
 ```python
 from urllib.request import urlopen
 from tempfile import NamedTemporaryFile

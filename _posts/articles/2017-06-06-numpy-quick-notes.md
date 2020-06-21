@@ -1,6 +1,8 @@
 ---
 title: Numpy Quick notes
 tags: [Python]
+classes: wide
+excerpt: Quick notes on the usage of numpy
 ---
 
 **Numpy** library provides you with an array data structure that holds some benefits over Python lists, 
@@ -458,8 +460,4 @@ array([[3, 4, 5],
 
 # Get info on data types with `np.info()`
 >>> np.info(np.ndarray.dtype)
-```
-
-
-This post was originally written by me on [gujjucoders.me](http://gujjucoders.me).
-{: .notice--warning} 
+``` 
