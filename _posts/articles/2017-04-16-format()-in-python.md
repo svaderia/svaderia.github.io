@@ -1,9 +1,6 @@
 ---
 title: Format() in Python
 tags: [Python]
-header:
-      image: /assets/images/python.jpg
-      teaser: /assets/images/python.png
 ---
  
 Today I'm going to write about formatting of strings in Python using `format()` function. 

@@ -2,9 +2,6 @@
 title: Data Structure and Algorithms in Python-3
 tags: [DSA, Stack, Queue, List]
 excerpt: Notes on Chapter 5 and 6 of Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
-header:
-      image: /assets/images/dsa2.png
-      teaser: /assets/images/dsa.png
 ---
 
 ## Chapter 5 - Array-Based Sequences

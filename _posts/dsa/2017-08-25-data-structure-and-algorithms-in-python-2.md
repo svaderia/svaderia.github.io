@@ -2,9 +2,6 @@
 title: Data Structure and Algorithms in Python-2
 tags: [DSA, Recursion, Algorithm Analysis]
 excerpt: Notes on Chapter 3 and 4 of Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
-header:
-      image: /assets/images/dsa2.png
-      teaser: /assets/images/dsa.png
 ---
 
 ## Chapter 3 - Algorithm Analysis

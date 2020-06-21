@@ -2,9 +2,6 @@
 title: Data Structure and Algorithms in Python-4
 tags: [DSA]
 excerpt: Notes on Chapter 7 and 8 of Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
-header:
-      image: /assets/images/dsa2.png
-      teaser: /assets/images/dsa.png
 ---
 
 # Chapter 7 - Linked List

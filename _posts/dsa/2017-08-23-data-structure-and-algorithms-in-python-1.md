@@ -2,9 +2,6 @@
 title: Data Structure and Algorithms in Python-1
 tags: [DSA, OOP]
 excerpt: Notes on Chapter 1 and 2 of Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
-header:
-      image: /assets/images/dsa2.png
-      teaser: /assets/images/dsa.png
 ---
 
 

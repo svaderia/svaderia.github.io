@@ -1,9 +1,6 @@
 ---
 title: Script to generate python scripts
 tags: [Python]
-header:
-      image: /assets/images/python.jpg
-      teaser: /assets/images/python.png
 ---
 
 This post has been **Updated** for generating a script with functions that can run on `Python2` and `Python3`.  
