@@ -13,7 +13,7 @@ Formally, space filling curve is a function that gives a bijective mapping from 
 I see myself mimicking the space filling curve in a totally different context, one who is trying to bridge the gaps in his knowledge.
 That kind of justifies the name of this website in a poetic way.
 
-During my time as a computer engineer, I have poked into few fascinating fields of Computer Science. Like Machine learning, Multiprocessor programming, software side of next generation 5G networks and most importantly DSA. Nowadays in my free time I am focusing on increasing my understanding of different algorithms and data structures by participating in online competitions.
+During my time as a computer engineer, I have poked into few fascinating fields of Computer Science, such as Machine learning, Multiprocessor programming, software side of next generation 5G networks and most importantly DSA. Nowadays in my free time I am focusing on increasing my understanding of different algorithms and data structures by participating in online competitions.
 
 I plan to make this website an extensive place to keep my notes and share my thoughts about things I find interesting.
 
