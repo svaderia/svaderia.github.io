@@ -264,10 +264,12 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
-      classes: wide
       share: true
-      related: true
       category: articles
+      toc: true
+      toc_sticky: true
+      toc_label: "Table of Content"
+      toc_icon: "file-code"
   - scope:
       path: _posts/dsa
       type: posts
@@ -276,11 +278,12 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
-      classes: wide
       share: true
-      related: true
       category: dsa
-      hidden: true
+      toc: true
+      toc_sticky: true
+      toc_label: "Table of Content"
+      toc_icon: "file-code"
   - scope:
       path: _pages
       type: pages
