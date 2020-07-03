@@ -26,3 +26,15 @@ toc: false
 
 * [Codeforces : Range Minimum Query(O(N),O(1))](https://codeforces.com/blog/entry/15149)
 * [YouTube : Episode 28 - Sparse Tables and LCA by Algorithms Live](https://www.youtube.com/watch?v=EKcQt-74bNw)
+
+# Problems
+* [SPOJ - DISQUERY](https://www.spoj.com/problems/DISQUERY/)
+    - Calculate something in the path from `u` to `v`
+
+* [CodeChef - TALCA](https://www.codechef.com/problems/TALCA)
+    - Change the root of the tree and find new LCA
+
+
+# Practice 
+* [cp-algorithms](https://cp-algorithms.com/graph/lca.html)
+* [LCA Problems](https://codeforces.com/blog/entry/43917)
