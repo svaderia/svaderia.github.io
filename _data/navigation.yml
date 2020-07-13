@@ -8,9 +8,9 @@ main:
   #   url: /publications/
   # - title: "Organisations"
   #   url: /organisations/
-  # - title: "Resume"
-  #   url: /resume/
   # - title: "Courses"
   #   url: /courses/
   - title: "Posts"
     url: /posts/
+  - title: "Resume"
+    url: /resume/
