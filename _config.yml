@@ -108,6 +108,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/svaderia"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/svaderia"
     - label: "Codeforces"
       icon: "fas fa-fw fa-code"
       url: "https://codeforces.com/profile/svaderia"
@@ -284,6 +287,16 @@ defaults:
       toc_sticky: true
       toc_label: "Table of Content"
       toc_icon: "file-code"
+  - scope:
+      path: _posts/resources
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      category: resources
   - scope:
       path: _pages
       type: pages
