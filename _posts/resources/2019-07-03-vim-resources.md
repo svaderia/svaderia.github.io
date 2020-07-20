@@ -15,3 +15,5 @@ excerpt: Links to the resources to learn vim and it's features
 * [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 * [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/)
 * [Vim: So long Pathogen, hello native package loading](https://shapeshed.com/vim-packages/) - An introduction to vim's native plugin manager
+
+> Check out my [dotfile](https://github.com/svaderia/dotfiles) for configuration and plugins used by me.
