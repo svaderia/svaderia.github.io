@@ -16,4 +16,12 @@ excerpt: Links to the resources to learn vim and it's features
 * [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/)
 * [Vim: So long Pathogen, hello native package loading](https://shapeshed.com/vim-packages/) - An introduction to vim's native plugin manager
 
+# Vim features
+* [Folding](https://www.linux.com/training-tutorials/vim-tips-folding-fun/#:~:text=Vim%20uses%20the%20same%20movement,a%20range%20in%20command%20mode.)
+* [Marks](https://vim.fandom.com/wiki/Using_marks)
+* [Read command](https://vim.fandom.com/wiki/Append_output_of_an_external_command)
+* [Abbreviations](https://vim.fandom.com/wiki/Use_abbreviations_for_frequently-used_words)
+* [:terminal command](https://vimhelp.org/terminal.txt.html)
+* [Tab pages](https://vim.fandom.com/wiki/Using_tab_pages)
+
 > Check out my [dotfile](https://github.com/svaderia/dotfiles) for configuration and plugins used by me.
