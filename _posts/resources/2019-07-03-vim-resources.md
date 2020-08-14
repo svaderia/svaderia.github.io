@@ -26,5 +26,6 @@ excerpt: Links to the vim resouces I found helpful
 * [Abbreviations](https://vim.fandom.com/wiki/Use_abbreviations_for_frequently-used_words)
 * [:terminal command](https://vimhelp.org/terminal.txt.html)
 * [Tab pages](https://vim.fandom.com/wiki/Using_tab_pages)
+* [:norm - How to Apply macro to multiple lines](https://stackoverflow.com/a/390194)
 
 > Check out my [dotfile](https://github.com/svaderia/dotfiles) for configuration and plugins used by me.
