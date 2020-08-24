@@ -1,7 +1,7 @@
 ---
-title: Graphs
-tags: [DSA, graph]
-excerpt: Notes of Graph section of Competitive Programmer's Handbook by Antti Laaksonen
+title: Graph and Trees
+tags: [DSA, graph, tree]
+excerpt: Notes of Graph and Tree section of Competitive Programmer's Handbook by Antti Laaksonen
 classes: wide
 ---
 
@@ -71,8 +71,9 @@ for (int k = 1; k <= n; k++) {
 * Minimum Spanning Tree
 * Use dsu and priority queue
 
-## Blogs
+## Resources
 * [Shortest Path Modelling Tutorial](https://codeforces.com/blog/entry/45897)
+* [Algorithm Live : Tree's Diameter, Center and Centroid](https://www.youtube.com/watch?v=2PFl93WM_ao)
 
 ## Problems
 * [Silly Sort](https://www.spoj.com/problems/SSORT/)
@@ -82,3 +83,4 @@ for (int k = 1; k <= n; k++) {
 * [Special Shortest Walk ](https://www.codechef.com/problems/SPSHORT)
 * [Two Closest](https://www.codechef.com/problems/PAIRCLST)
     * Check out the random [solution](https://discuss.codechef.com/t/pairclst-editorial/12280/8)
+* [Civilization](https://codeforces.com/contest/455/problem/C)
