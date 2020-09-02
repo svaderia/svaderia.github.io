@@ -73,7 +73,12 @@ for (int k = 1; k <= n; k++) {
 
 ## Resources
 * [Shortest Path Modelling Tutorial](https://codeforces.com/blog/entry/45897)
+    * How to use Dijkstra on state graph
 * [Algorithm Live : Tree's Diameter, Center and Centroid](https://www.youtube.com/watch?v=2PFl93WM_ao)
+    * Good approach towards theoratical proofs of tree's properties
+* [Algorithm Thread : Tree Basics video and Gym Contest](https://codeforces.com/blog/entry/81527)
+    * Covers Binary lifting for LCA, diameter and Euler tour to answer subtree queries using segment tree
+    * [Gym](https://codeforces.com/gym/102694) has a good question to practice your basics
 
 ## Problems
 * [Silly Sort](https://www.spoj.com/problems/SSORT/)
