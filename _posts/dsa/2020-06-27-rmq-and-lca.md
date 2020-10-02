@@ -21,11 +21,13 @@ toc: false
     - Benchmarking this implementation against other DS
 
 * [Codeforces : Sqrt-tree: answering queries in O(1) with O(NloglogN) preprocessing](https://codeforces.com/blog/entry/57046)
-    - Different data structure for solving RMQ problem 
-    - Good read 
+    - Different data structure for solving RMQ problem
+    - Good read
 
 * [Codeforces : Range Minimum Query(O(N),O(1))](https://codeforces.com/blog/entry/15149)
 * [YouTube : Episode 28 - Sparse Tables and LCA by Algorithms Live](https://www.youtube.com/watch?v=EKcQt-74bNw)
+* [Arpa's Trick](https://codeforces.com/blog/entry/48994)
+    - Solving RMQ problem using DSU
 
 # Problems
 * [SPOJ - DISQUERY](https://www.spoj.com/problems/DISQUERY/)
@@ -34,7 +36,6 @@ toc: false
 * [CodeChef - TALCA](https://www.codechef.com/problems/TALCA)
     - Change the root of the tree and find new LCA
 
-
-# Practice 
+# Practice
 * [cp-algorithms](https://cp-algorithms.com/graph/lca.html)
 * [LCA Problems](https://codeforces.com/blog/entry/43917)
