@@ -1,7 +1,9 @@
 ---
-title: Geometry - Sweep line
-tags: [geometry]
-excerpt: Resources for sweep line
+title: SQRT Decomposition and Mo's Algorithm
+tags: [sqrt]
+excerpt: Resources for SQRT decomposition
+toc : false
+classes : wide
 ---
 {{markdownify}}
 

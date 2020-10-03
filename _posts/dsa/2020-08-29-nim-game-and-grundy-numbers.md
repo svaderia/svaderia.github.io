@@ -2,6 +2,8 @@
 title: Game theory - The game of Nim
 tags: [game-theory]
 excerpt: Links to Game of Nim articles and questions
+toc : false
+classes : wide
 ---
 {{markdownify}}
 
