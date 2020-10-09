@@ -13,3 +13,4 @@ classes : wide
     * Good article with different variations of Nim games asked in CP
 * [Algorithm Games - Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/algorithm-games/)
 * [Staircase Nim](https://codeforces.com/blog/entry/44651)
+* [The Intuition Behind NIM and Grundy Numbers in Combinatorial Game Theory](https://codeforces.com/blog/entry/66040)
