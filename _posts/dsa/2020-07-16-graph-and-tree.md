@@ -89,3 +89,5 @@ for (int k = 1; k <= n; k++) {
 * [Two Closest](https://www.codechef.com/problems/PAIRCLST)
     * Check out the random [solution](https://discuss.codechef.com/t/pairclst-editorial/12280/8)
 * [Civilization](https://codeforces.com/contest/455/problem/C)
+* [KOICOST](https://www.spoj.com/problems/KOICOST/)
+    * Good MST like solution
