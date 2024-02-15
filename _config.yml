@@ -10,8 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -93,14 +92,13 @@ analytics:
     tracking_id          : "UA-104946102-1"
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Shyamal Vaderia"
   avatar           : /assets/images/Shyamal.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Learning everything possible"
   location         : "Bangalore, India"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,7 +125,6 @@ footer:
     - label: "Codeforces"
       icon: "fas fa-fw fa-code"
       url: "https://codeforces.com/profile/svaderia"
-
 
 # Reading Files
 include:
@@ -166,14 +163,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -186,19 +181,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
 paginate: 20 # amount of posts to show
 paginate_path: /posts/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins (previously gems:)
 plugins:
@@ -217,7 +209,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 
 # Archives
 #  Type
@@ -247,14 +238,12 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
