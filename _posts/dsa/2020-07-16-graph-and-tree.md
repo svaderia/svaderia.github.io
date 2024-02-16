@@ -1,7 +1,7 @@
 ---
-title: Graph and Trees
-tags: [DSA, graph, tree]
-excerpt: Notes of Graph and Tree section of Competitive Programmer's Handbook by Antti Laaksonen
+title: Shortest Path and MST
+tags: [DSA, graph]
+excerpt: All Shortest Path and MST algorithms
 classes: wide
 ---
 
@@ -70,6 +70,31 @@ for (int k = 1; k <= n; k++) {
 ## Krushkal's algorithm
 * Minimum Spanning Tree
 * Use dsu and priority queue
+
+## Rerooting the Tree
+```c
+void change_root(int old_root, int new_root) {
+    // Update data structures as if `new_root` was being removed as a child from `old_root`
+    // Update data structures as if `old_root` was being added as a child to `new_root`
+}
+
+void walk(int vertex, int parent) {
+    // Data structures now reflect the tree as if `vertex` were the root
+
+    for (child in adjacency_list[vertex]) {
+        if (child == parent) continue;
+
+        change_root(vertex, child);
+        walk(child, vertex);
+        change_root(child, vertex);
+    }
+}
+
+// Initialize data structures with respect to the initial root `root`
+
+walk(root, -1);
+```
+* [Online Query Based Rerooting Technique](https://codeforces.com/blog/entry/76150)
 
 ## Resources
 * [Shortest Path Modelling Tutorial](https://codeforces.com/blog/entry/45897)
