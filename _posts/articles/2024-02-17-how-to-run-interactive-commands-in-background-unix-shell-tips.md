@@ -1,5 +1,5 @@
 ---
-title: Sending Commands Requiring Input to the Background in Unix Shells
+title: "How to Run Interactive Commands in Background: Unix Shell Tips"
 tags: [bash, zsh, command line]
 excerpt: Use `CTRL + Z` and `bg` to send interactive commands to the background.
 toc: false
