@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Shyamal Vaderia"
   avatar           : /assets/images/Shyamal.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Learning everything possible"
-  location         : "Bangalore, India"
+  bio              : "Mapping Knowledge"
+  location         : "Pittsburgh, USA"
   email            :
   links:
     - label: "Email"

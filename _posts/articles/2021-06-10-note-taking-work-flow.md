@@ -1,8 +1,10 @@
 ---
 title: My research on better note taking workflow
-tags: [digital gardn]
+tags: [digital garden]
 excerpt: My research on better note taking workflow
 ---
+ 
+ > THIS NEEDS REFINEMENT. THIS WERE MY RAW THOUGHTS AT THE TIME.
 
 ## A read it later app
 I need to have a good read later app. There are two options here.

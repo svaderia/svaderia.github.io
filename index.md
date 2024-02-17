@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 classes: wide
 ---
+> I have moved on from GS to something more exciting. My entire site is due a nice update. Until then, enjoy the rambling of my old self.
+
 
 I am a software engineer working as a fullstack developer at Goldman Sachs. Previously I have worked on 5G Access solutions at Samsung R&D. I graduated with a degree in Computer Science from BITS Pilani.
 I have an undying desire to code everything I come across, be it a simple script in python or a complex algorithm for scheduling the wireless data for your device.
