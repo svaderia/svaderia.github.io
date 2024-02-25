@@ -11,6 +11,7 @@ excerpt: Links to the vim resouces I found helpful
 * [Missing semester - MIT](https://missing.csail.mit.edu/2020/editors/)
 
 # Blog
+* [Learning Vim in 2014: Vim as Language](https://benmccormick.org/2014/07/02/062700.html)
 * [Your problem with Vim is that you don’t grok vi](https://stackoverflow.com/a/1220118/1424361)
     - A concise explanation of what makes vi/vim special, and one of the most popular answers ever on Stack Overflow.
 * [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
