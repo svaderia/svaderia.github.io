@@ -10,4 +10,5 @@ Hosted on GitHub:octocat: Pages.
 - [ ] Add competitive resources better on the website. Look at the repo for the ideas.
 - [ ] Make it easy to add new stuff to website. Add even small things in a folder called snippet. Inspired from [here](https://wincent.com/snippets)
 - [ ] Have an automated port from notion to the website. makes life easier (maybe)
-- [ ] Let's have public TODO of things I want to do in life. Like cryptopals challanges, or python challange, or the distributed challange
+- [ ] Let's have public TODO of things I want to do in life. Like [cryptopals](https://cryptopals.com/) challanges, or
+  [pythonchallange](http://www.pythonchallenge.com/about.php), or the [distributed](https://fly.io/dist-sys/) challange, or the [notpron](http://www.notpron.com/notpron/)
