@@ -16,3 +16,18 @@ main:
     url: /books/
   - title: "Resume"
     url: /resume/
+
+posts:
+  - title: ""
+    children:
+      - title: "All Posts"
+        url: /all/
+  - title: "Categories"
+    url: /categories/
+    children:
+      - title: "Articles"
+        url: /articles/
+      - title: "DSA"
+        url: /dsa/
+      - title: "Resources"
+        url: /resources/

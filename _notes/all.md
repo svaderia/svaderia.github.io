@@ -1,11 +1,12 @@
 ---
 title: All
 layout : archive
-author_profile: true
 header:
   teaser: /assets/images/all2.webp
 excerpt: Everything there is
 classes: wide
+sidebar:
+  nav: posts
 ---
 
 {% if paginator %}
