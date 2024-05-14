@@ -45,3 +45,7 @@ html {
     font-size: 18px; // change to whatever
   }
 }
+
+.hide-title .page__title {
+  display: none;
+}
