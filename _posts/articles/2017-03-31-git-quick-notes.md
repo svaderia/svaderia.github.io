@@ -3,10 +3,11 @@ title: Git Quick Notes
 tags: [git]
 excerpt: Git cheat sheet for reference
 ---
+> TODO: This needs to be reviewed and updated for the latest uses I do
 
 Quick cheat sheet for the most common and forgettable things.
 
-## Confit
+## Config
 {% highlight bash %}
 $ git config --global user.name "Shyamal vaderia"   
 $ git config --global user.email vaderiashayamal@gmail.com  

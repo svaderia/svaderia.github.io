@@ -2,6 +2,8 @@
 title: My research on better note taking workflow
 tags: [digital garden]
 excerpt: My research on better note taking workflow
+toc: false
+classes: wide
 ---
  
  > THIS NEEDS REFINEMENT. THIS WERE MY RAW THOUGHTS AT THE TIME.
