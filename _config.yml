@@ -277,7 +277,6 @@ defaults:
       comments: false
       share: true
       category: DSA
-      toc: false
       classes: wide
   - scope:
       path: _posts/resources
@@ -289,6 +288,7 @@ defaults:
       comments: false
       share: true
       category: Resources
+      classes: wide
   - scope:
       path: _pages
       type: pages
