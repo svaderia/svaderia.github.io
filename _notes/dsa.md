@@ -1,7 +1,7 @@
 ---
 title: DSA
 layout: category
-taxonomy: dsa
+taxonomy: DSA
 header:
   teaser: /assets/images/spacefilling.jpg
 excerpt: My notes on DSA

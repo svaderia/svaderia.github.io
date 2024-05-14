@@ -1,7 +1,7 @@
 ---
 title: Articles
 layout: category
-taxonomy: articles
+taxonomy: Articles
 header:
   teaser: /assets/images/random.jpg
 excerpt: Articles on random topics

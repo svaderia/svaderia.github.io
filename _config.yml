@@ -262,7 +262,7 @@ defaults:
       read_time: true
       comments: false
       share: true
-      category: articles
+      category: Articles
       toc: true
       toc_sticky: true
       toc_label: "Table of Content"
@@ -276,7 +276,7 @@ defaults:
       read_time: true
       comments: false
       share: true
-      category: dsa
+      category: DSA
       toc: false
   - scope:
       path: _posts/resources
@@ -287,7 +287,7 @@ defaults:
       read_time: false
       comments: false
       share: true
-      category: resources
+      category: Resources
   - scope:
       path: _pages
       type: pages
