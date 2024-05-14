@@ -102,7 +102,7 @@ author:
   name             : "Shyamal Vaderia"
   avatar           : /assets/images/Shyamal.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mapping Knowledge"
-  location         : "Pittsburgh, USA"
+  location         : "Pittsburgh"
   email            :
   links:
     - label: "Email"
