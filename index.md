@@ -7,13 +7,12 @@ classes: wide
 I am currently pursuing *Masters of Science in Information Networking* at *Carnegie Mellon University*. 
 Being a student again has been rejuvenating, and I am loving the freedom to explore and learn again. 
 
-Before starting my master's program, I worked at *Goldman Sachs* for nearly three years and at Samsung R&D for roughly one and a half years.
-I completed my undergradudate degree in Computer Science at the  Birla Institute of Technology and Science, Pilani (BITS Pilani).
+Before starting my master's program, I worked at *Goldman Sachs* for nearly three years and at *Samsung R&D* for roughly one and a half years.
+I completed my undergradudate degree in Computer Science at the  *Birla Institute of Technology and Science, Pilani (BITS Pilani)*.
 
-
-During my time as a computer engineer, I have poked into few fascinating fields of Computer Science,
-such as Machine learning, Multiprocessor programming, software side of next generation 5G networks and most importantly DSA.
-Nowadays in my free time I am focusing on increasing my understanding of different algorithms and data structures by participating in online competitions.
+My interest has evolved over time, starting with Machine Learning during my undergrad and shifting to Computer Systems in grad school.
+Nowadays I am really into computer systems, and CMU offers endless courses and opportunities to test myself.
+I'm also passionate about Data Structures and Algorithms. I try to participate in online competitions whenever I can to deepen my understanding. 
 
 The logo of this website is an Order 2 pseudo-Hilbert curve; a basic block of space filling curve also known as Hilbert's curve.
 Formally, space filling curve is a function that gives a bijective mapping from *1D* line to *2D* space.
