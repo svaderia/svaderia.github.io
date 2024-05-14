@@ -10,10 +10,10 @@ main:
   #   url: /organisations/
   # - title: "Courses"
   #   url: /courses/
+  # - title : "Books"
+  #   url: /books/
   - title: "Posts"
     url: /posts/
-  - title : "Books"
-    url: /books/
   - title: "Resume"
     url: /resume/
 
