@@ -2,8 +2,6 @@
 title: Geometry - Sweep line
 tags: [geometry]
 excerpt: Resources for sweep line
-toc : false
-classes : wide
 ---
 {{markdownify}}
 

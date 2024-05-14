@@ -2,8 +2,6 @@
 title: SQRT Decomposition and Mo's Algorithm
 tags: [sqrt]
 excerpt: Resources for SQRT decomposition
-toc : false
-classes : wide
 ---
 {{markdownify}}
 

@@ -2,7 +2,6 @@
 title: Data Structure and Algorithms in Python
 tags: [DSA]
 excerpt: Notes on Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser.
-classes: wide
 ---
 
 

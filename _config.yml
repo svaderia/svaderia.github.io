@@ -278,6 +278,7 @@ defaults:
       share: true
       category: DSA
       toc: false
+      classes: wide
   - scope:
       path: _posts/resources
       type: posts

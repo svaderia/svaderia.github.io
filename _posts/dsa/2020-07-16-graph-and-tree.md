@@ -2,7 +2,6 @@
 title: Shortest Path and MST
 tags: [DSA, graph]
 excerpt: All Shortest Path and MST algorithms
-classes: wide
 ---
 
 * A graph is bipartite if it is possible to color it using two colors. It turns out that a graph is bipartite exactly when it does not contain a cycle with an *odd* number of edges.
