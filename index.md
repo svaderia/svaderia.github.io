@@ -23,4 +23,4 @@ I planned to make this website an extensive place to keep my notes and share my 
 Very recently I came accross the concept of [digital garden](https://joelhooks.com/digital-garden).
 I indent to restructure this website and plan to start publishing my all WIP learning. Maybe I would write an article on how I plan to change my note taking approach.
 
-PS: Check out this amazing explanation on [Hilbert's curve](https://www.youtube.com/watch?v=3s7h2MHQtxc) by Grant Sanderson.
+> PS: Check out this amazing explanation on [Hilbert's curve](https://www.youtube.com/watch?v=3s7h2MHQtxc) by Grant Sanderson.
