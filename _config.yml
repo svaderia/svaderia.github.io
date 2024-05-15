@@ -290,6 +290,17 @@ defaults:
       category: Resources
       classes: wide
   - scope:
+      path: _posts/wiki
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      category: Wiki
+      classes: wide
+  - scope:
       path: _pages
       type: pages
     values:
