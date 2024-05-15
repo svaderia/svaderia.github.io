@@ -8,7 +8,7 @@ Hosted on GitHub :octocat: Pages.
 - [ ] Merge all the pages of experience into one, Basically Projects, Exeperience, Publication, etc.
 - [ ] Port the old blogs from gujju coder website [GujjuCoders](https://github.com/svaderia/GujjuCoders/tree/master)
 - [ ] Add competitive resources better on the website. Look at the repo for the ideas.
-- [ ] Make it easy to add new stuff to website. Add even small things in a folder called snippet. Inspired from [here](https://wincent.com/snippets)
+- [ ] Make it easy to add new stuff to website. Add even small things in a folder called snippet. Inspired from [here](https://wincent.dev/snippets)
 - [ ] Have an automated port from notion to the website. makes life easier (maybe)
 - [ ] Make everything searchable. I want to keep writing only because I can quickly find the things I liked or the things I read and want to re-read again.
 - [ ] Let's have public TODO of things I want to do in life. Like [cryptopals](https://cryptopals.com/) challanges, or
