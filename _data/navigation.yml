@@ -31,3 +31,5 @@ posts:
         url: /dsa/
       - title: "Resources"
         url: /resources/
+      - title: "Wiki"
+        url: /wiki/
