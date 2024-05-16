@@ -17,9 +17,9 @@ We are going to use GNU Stow to push these to `$HOME/bin` directory so that we c
 
 1. **Install GNU Stow** (if not already installed): `brew install stow`
 
-2. **Create Symlinks**:
-Navigate to your project directory and run:
-```bash
+2. **Create Symlinks**: Navigate to your project directory and run below :  
+
+```sh
 cd path/to/project
 # This links scripts from scripts/bin to $HOME/bin.
 stow --target=$HOME scripts
@@ -28,4 +28,4 @@ stow --target=$HOME scripts
 ls -l $HOME/bin
 ```
 
-[ref]: [https://youtu.be/y6XCebnB9gs?si=5_foGHOThNgDU_f4]
+[ref]: https://youtu.be/y6XCebnB9gs?si=5_foGHOThNgDU_f4
