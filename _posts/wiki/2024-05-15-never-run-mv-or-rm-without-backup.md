@@ -32,3 +32,6 @@ We will never know.
 Sigh, let's stop being emotional.
 
 > PS: I used to call the wiki articles snippets before. So you will see me referring to them as snippets here.
+
+> One of the post would have been talking about my `lvimrc` config for editing `C` files on the server.
+Other post was talking about why I am grateful to my parents for raising me right.
