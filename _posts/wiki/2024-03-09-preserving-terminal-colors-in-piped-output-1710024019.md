@@ -1,7 +1,7 @@
 ---
 title: "Preserving Terminal Colors in Piped Output"
 tags: [cmd]
-excerpt: "use unbuffer"
+excerpt: "Use unbuffer"
 toc: false
 classes: wide
 ---

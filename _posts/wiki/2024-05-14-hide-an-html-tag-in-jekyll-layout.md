@@ -1,7 +1,7 @@
 ---
 title: "Hide an HTML tag in Jekyll layout"
 tags: [jekyll]
-excerpt: "use custom css"
+excerpt: "Use custom css"
 toc: false
 classes: wide
 ---
