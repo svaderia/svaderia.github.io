@@ -26,5 +26,5 @@ classes:
 
 Reference : [https://github.com/mmistakes/minimal-mistakes/discussions/4835]( https://github.com/mmistakes/minimal-mistakes/discussions/4835 )
 
-[custom_class]: [https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-based-and-user-defined-classes]
-[custom_css]: [https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#customizing]
+[custom_class]: https://mmistakes.github.io/minimal-mistakes/docs/layouts/#layout-based-and-user-defined-classes
+[custom_css]: https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#customizing
