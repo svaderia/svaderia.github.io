@@ -118,7 +118,7 @@ author:
       icon: "fas fa-fw fa-code"
       url: "https://codeforces.com/profile/svaderia"
     - label: "Codechef"
-      icon: "fas fa-fw fa-code"
+      icon: "fas fa-solid fa-laptop-code"
       url: "https://www.codechef.com/users/shyamal1312"
 
 # Site Footer
