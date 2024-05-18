@@ -1,6 +1,6 @@
 ---
 title: "WIP ideas for a potential CTF problems"
-tags: [ctf]
+tags: [security, ctf]
 excerpt: "A noob's wishlist"
 toc: false
 classes: wide
