@@ -1,6 +1,6 @@
 ---
 title: Shortest Path and MST
-tags: [DSA, graph]
+tags: [dsa, graph]
 excerpt: All Shortest Path and MST algorithms
 ---
 

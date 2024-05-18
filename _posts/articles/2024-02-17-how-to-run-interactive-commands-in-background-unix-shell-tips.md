@@ -1,6 +1,6 @@
 ---
 title: "How to Run Interactive Commands in Background: Unix Shell Tips"
-tags: [bash, zsh, command line]
+tags: [cmd]
 excerpt: Use `CTRL + Z` and `bg` to send interactive commands to the background.
 toc: false
 classes: wide

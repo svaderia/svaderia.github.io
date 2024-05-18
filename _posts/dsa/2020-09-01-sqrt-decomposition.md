@@ -1,6 +1,6 @@
 ---
 title: SQRT Decomposition and Mo's Algorithm
-tags: [sqrt]
+tags: [dsa, sqrt]
 excerpt: Resources for SQRT decomposition
 ---
 {{markdownify}}

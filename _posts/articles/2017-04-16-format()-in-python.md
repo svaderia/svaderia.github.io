@@ -1,6 +1,6 @@
 ---
 title: Format() in Python
-tags: [Python]
+tags: [python]
 excerpt: String formatting in python with format()
 ---
  

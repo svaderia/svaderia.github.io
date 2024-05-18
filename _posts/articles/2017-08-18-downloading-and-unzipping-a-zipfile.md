@@ -1,6 +1,6 @@
 ---
 title: Downloading and Unzippig a Zip File 
-tags: [Python]
+tags: [python]
 excerpt: Zipfile and shutil in python
 toc: false
 classes: wide

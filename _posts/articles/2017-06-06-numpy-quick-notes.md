@@ -1,6 +1,6 @@
 ---
 title: Numpy Quick notes
-tags: [Python]
+tags: [python]
 classes: wide
 excerpt: Quick notes on the usage of numpy
 ---
