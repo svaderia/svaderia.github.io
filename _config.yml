@@ -299,6 +299,7 @@ defaults:
       comments: false
       share: true
       category: Wiki
+      toc: false
       classes: wide
   - scope:
       path: _pages
