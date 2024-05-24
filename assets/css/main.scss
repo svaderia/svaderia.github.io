@@ -49,3 +49,9 @@ html {
 .hide-title .page__title {
   display: none;
 }
+
+// Custom styles for inline code
+code.language-plaintext:not(h1 code.language-plaintext):not(h2 code.language-plaintext):not(h3 code.language-plaintext) {
+  color: #d14;
+  border: 1px solid #b6b6b6;
+}
