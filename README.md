@@ -6,7 +6,7 @@ Hosted on GitHub :octocat: Pages.
 ## TODO:
 
 - [X] Make it easy to add new stuff to website. Add even small things in a folder called snippet. Inspired from [here](https://wincent.dev/snippets)
-- [ ] Make everything searchable. I want to keep writing only because I can quickly find the things I liked or the things I read and want to re-read again.
+- [X] Make everything searchable. I want to keep writing only because I can quickly find the things I liked or the things I read and want to re-read again.[^1]
 - [ ] Merge all the pages of experience into one, Basically Projects, Exeperience, Publication, etc.
 - [ ] Port the old blogs from gujju coder website [GujjuCoders](https://github.com/svaderia/GujjuCoders/tree/master)
 - [ ] Add competitive resources better on the website. Look at the repo for the ideas.
@@ -20,3 +20,10 @@ Hosted on GitHub :octocat: Pages.
    Do not overcomplicate by thininking about all the plugins available. Just be minimal. minimal plugins, minimal configs.
    Only reason it's tempting to move to nvim is because of `tree-sitter`. I feel that it would be so awesome to not worry about
    formatting and plugins for the new language I am trying to work into.
+- [ ] You might need to update the repo to GitHub Actions, some references [1][11], [2][22]
+
+
+[11]: https://github.com/fractalsoft/blog.fractalsoft.org/commit/2fd8f928583423933a368d636cdd58b033cec80a
+[22]: https://ibug.io/blog/2020/09/build-github-pages-with-github-actions/
+
+[^1]: I may need to test if the search is good enough.
