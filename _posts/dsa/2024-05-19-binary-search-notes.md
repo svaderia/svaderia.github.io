@@ -44,7 +44,7 @@ while(l < r){
 Imagine You have a function which has a single `minima` or `maxima` (think about the `f(x) = x^2` function). 
 Your task is to find the value at which it minimises or maximises.  
 
-Let's say the function is initially strictly decreasing, and then after the minima it is scritly increasing. 
+Let's say the function is initially strictly decreasing, and then after the minima it is strictly increasing. 
 In this case you can find the minima with terminary search algorithm.  
 
 You divide the range in 3 parts by creating to mid points at `1/3` and `2/3` range.
