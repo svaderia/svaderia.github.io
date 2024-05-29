@@ -56,3 +56,5 @@ Here is how you link to a section in a page. [Link like this](#link-to-a-header-
 ### Utility classed for minimal mistakes
 Refer : [https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/)
 
+### Include another markdown file
+[https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548](https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548)
