@@ -32,11 +32,18 @@ You can create Footnotes by adding `[^1]` after a word and then write the footno
 <details>
 <summary>This is how you do it</summary>
 You might need to create collapsible section in future.
-{% highlight markdown %}
-This is how you highlight inside it.
+{% highlight bash %}
+# This is how you highlight inside it.
 {% endhighlight %}
+
+You also need surround the below highlight with a `raw` tag so that the `highlight` tag is not processed.
+Read more [here](https://ozzieliu.com/2016/04/26/writing-liquid-template-in-markdown-with-jekyll/)
+
+
 </details>
-```md
+
+{% raw %}
+```markdown
 <details>
 <summary>This is how you do it</summary>
 You might need to create collapsible section in future.
@@ -46,11 +53,12 @@ This is how you highlight inside it.
 </details>
 ```
 
+{% endraw %}
 ### Link to a header in the same page
 
 Here is how you link to a section in a page. [Link like this](#link-to-a-header-in-the-same-page)
 ```md
-[References](#references)
+[Link like this](#link-to-a-header-in-the-same-page)
 ```
 
 ### Utility classed for minimal mistakes
