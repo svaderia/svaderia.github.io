@@ -21,6 +21,7 @@ Hosted on GitHub :octocat: Pages.
    Only reason it's tempting to move to nvim is because of `tree-sitter`. I feel that it would be so awesome to not worry about
    formatting and plugins for the new language I am trying to work into.
 - [ ] You might need to update the repo to GitHub Actions, some references [1][11], [2][22]
+- [ ] Update the favicon of the site
 
 
 [11]: https://github.com/fractalsoft/blog.fractalsoft.org/commit/2fd8f928583423933a368d636cdd58b033cec80a
