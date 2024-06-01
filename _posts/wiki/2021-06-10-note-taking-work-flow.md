@@ -38,3 +38,10 @@ I am not entirely sure if one would help. I do use a lot of TODO everyday to kee
 Take a look at *2Do*
 
 
+## Reference
+* [Stock and flow / Snarkmarket](https://snarkmarket.com/2010/4890/)
+* [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
+* [The Garden and the Stream: A Technopastoral – Hapgood](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+* [Venkatesh Rao ☀️ on X](https://x.com/vgr/status/1047925106423603200)
+* [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
+* [Spaced Repetition for Efficient Learning · Gwern.net](https://gwern.net/spaced-repetition)
