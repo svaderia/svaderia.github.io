@@ -1,6 +1,6 @@
 ---
 title: "How to Download Videos from Mediasite"
-tags: [random]
+tags: [misc]
 excerpt: "Reddit to rescue"
 toc: false
 classes: wide

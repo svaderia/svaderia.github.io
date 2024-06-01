@@ -1,6 +1,6 @@
 ---
 title: "How to fix Recent search in Finder"
-tags: [macos]
+tags: [misc, macos]
 excerpt: "Rebuild your Spotlight index"
 toc: false
 classes: wide

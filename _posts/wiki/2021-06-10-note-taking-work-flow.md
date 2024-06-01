@@ -1,6 +1,6 @@
 ---
 title: My research on better note taking workflow
-tags: [digital garden]
+tags: [misc]
 excerpt: My research on better note taking workflow
 toc: false
 classes: wide

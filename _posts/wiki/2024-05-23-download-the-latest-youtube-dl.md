@@ -1,6 +1,6 @@
 ---
 title: "Download the latest youtube-dl"
-tags: [cmd]
+tags: [misc]
 excerpt: "You need to know what youtube-dl is"
 ---
 
