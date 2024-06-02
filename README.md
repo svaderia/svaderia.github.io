@@ -22,9 +22,17 @@ Hosted on GitHub :octocat: Pages.
    formatting and plugins for the new language I am trying to work into.
 - [ ] You might need to update the repo to GitHub Actions, some references [1][11], [2][22]
 - [ ] Update the favicon of the site
+- [ ] Read about link rot, and do something for the pages you have bookmarked, or refered, or saved.[^2]
+
 
 
 [11]: https://github.com/fractalsoft/blog.fractalsoft.org/commit/2fd8f928583423933a368d636cdd58b033cec80a
 [22]: https://ibug.io/blog/2020/09/build-github-pages-with-github-actions/
 
 [^1]: I may need to test if the search is good enough.
+
+[^2]: Read below references when you want do resume your link rot research.
+      * [Archiving URLs · Gwern.net](https://gwern.net/archiving#automatic-internet-archive-repairs)
+      * [danny0838/webscrapbook: A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.](https://github.com/danny0838/webscrapbook)
+      * [Preventing Link Rot in my Obsidian Vault | Ben Congdon](https://benjamincongdon.me/blog/2021/09/19/Preventing-Link-Rot-in-my-Obsidian-Vault/)
+      * [linkchecker/linkchecker: check links in web documents or full websites](https://github.com/linkchecker/linkchecker)
