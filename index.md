@@ -1,4 +1,5 @@
 ---
+title : Shyamal Vaderia
 layout: single
 author_profile: true
 classes: wide
