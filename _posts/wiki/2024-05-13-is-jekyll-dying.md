@@ -1,8 +1,6 @@
 ---
 title: "Is Jekyll dying?"
 tags: [jamstack, jekyll]
-toc: false
-classes: wide
 ---
 
 

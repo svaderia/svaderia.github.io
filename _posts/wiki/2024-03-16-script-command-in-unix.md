@@ -2,8 +2,6 @@
 title: "`script` command in Unix"
 tags: [cmd]
 excerpt: "Use it to store the output of the terminal session"
-toc: false
-classes: wide
 ---
 
 

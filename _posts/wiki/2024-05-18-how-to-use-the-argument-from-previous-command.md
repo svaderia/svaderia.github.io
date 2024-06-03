@@ -2,8 +2,6 @@
 title: "How to use the argument from previous command"
 tags: [cmd]
 excerpt: "Use `!*`"
-toc: false
-classes: wide
 ---
 
 

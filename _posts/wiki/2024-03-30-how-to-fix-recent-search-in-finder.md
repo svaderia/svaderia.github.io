@@ -2,8 +2,6 @@
 title: "How to fix Recent search in Finder"
 tags: [misc, macos]
 excerpt: "Rebuild your Spotlight index"
-toc: false
-classes: wide
 ---
 
 My recent tab in finder was not showing up.  

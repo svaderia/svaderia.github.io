@@ -2,8 +2,6 @@
 title: "Parallel bit-counter"
 tags: [dsa]
 excerpt: "If you understand this, explain it to me"
-toc: false
-classes: wide
 ---
 
 [https://codeforces.com/blog/entry/122034?#comment-1083134](https://codeforces.com/blog/entry/122034?#comment-1083134)

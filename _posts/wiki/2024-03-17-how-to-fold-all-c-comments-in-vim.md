@@ -2,8 +2,6 @@
 title: "How to fold all C comments in Vim"
 tags: [vim]
 excerpt: "Map a hacky global command to `<leader>z`"
-toc: false
-classes: wide
 ---
 
 In vim, you can use global command to apply actions across lines matching the given pattern.

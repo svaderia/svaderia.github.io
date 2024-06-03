@@ -2,8 +2,6 @@
 title: "Debugging Vim Slowness"
 tags: [vim]
 excerpt: "Remember, Vim's `runtimepath` is important"
-toc: false
-classes: wide
 ---
  
 A lot of new things to learn today!

@@ -2,8 +2,6 @@
 title: "WIP ideas for a potential CTF problems"
 tags: [security, ctf]
 excerpt: "A noob's wishlist"
-toc: false
-classes: wide
 ---
 
 

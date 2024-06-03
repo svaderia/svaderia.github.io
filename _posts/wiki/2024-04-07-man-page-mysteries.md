@@ -2,8 +2,6 @@
 title: "Man Page Mysteries"
 tags: [cmd, man]
 excerpt: "Did you know that different OS has different `man` pages for system calls?"
-toc: false
-classes: wide
 ---
 
 

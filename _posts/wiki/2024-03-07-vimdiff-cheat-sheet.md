@@ -2,8 +2,6 @@
 title: "Vimdiff Cheat sheet"
 tags: [vim]
 excerpt: "Yet another cheat sheet"
-toc: false
-classes: wide
 ---
 
 

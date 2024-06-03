@@ -1,10 +1,7 @@
 ---
 title: "Never run `mv` or `rm` without backup"
-date: 2024-05-15 13:48:01 -0400
 tags: [cmd]
 excerpt: "I said NEVER"
-toc: false
-classes: wide
 ---
 
 NEVER USE `mv` OR `rm` WITHOUT BACKUP. I REPEAT, NEVER.
