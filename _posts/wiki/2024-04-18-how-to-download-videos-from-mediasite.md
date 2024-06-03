@@ -2,6 +2,7 @@
 title: "How to Download Videos from Mediasite"
 tags: [misc]
 excerpt: "Reddit to rescue"
+snippet: true
 ---
 
 

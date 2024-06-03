@@ -1,6 +1,7 @@
 ---
 title: "Is Jekyll dying?"
 tags: [jamstack, jekyll]
+snippet: true
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Download the latest youtube-dl"
 tags: [misc]
 excerpt: "You need to know what youtube-dl is"
+snippet: true
 ---
 
 For some reason the repository has not cut a new release tag since a while. 

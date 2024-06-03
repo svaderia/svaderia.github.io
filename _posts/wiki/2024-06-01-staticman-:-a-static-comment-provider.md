@@ -2,6 +2,7 @@
 title: "Staticman : A static comment provider"
 tags: [jamstack]
 excerpt: "The project works, but it is unmaintained :("
+snippet: true
 ---
 
 Long time ago, when I first created this website I was researching how to add comments in the blogs. 

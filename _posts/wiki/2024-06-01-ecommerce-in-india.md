@@ -2,6 +2,7 @@
 title: "ECommerce in India"
 tags: [misc]
 excerpt: "Once upon a time I wanted to help in a side hustle"
+snippet: true
 ---
 
 
