@@ -8,8 +8,8 @@ excerpt: "Once upon a time I wanted to help in a side hustle"
 ## GST Billing
 * [GST Billing Software Free Download - Best GST Invoicing Software in India for PC & Mobile](https://mybillbook.in/)
 * [Generating PDFs With (and Without) Python – David Fischer dot Name](https://www.davidfischer.name/2015/08/generating-pdfs-with-and-without-python/)
-* [Outputting PDFs with Django | Django documentation | Django](https://docs.djangoproject.com/en/1.8/howto/outputting-pdf/)
-* [ReportLab and Django - Part 1 - The Set Up and a Basic | Eric Saupe](https://eric.sau.pe/reportlab-and-django-part-1-the-set-up-and-a-basic-example/)
+* [Outputting PDFs with Django - Django documentation - Django](https://docs.djangoproject.com/en/1.8/howto/outputting-pdf/)
+* [ReportLab and Django - Part 1 - The Set Up and a Basic - Eric Saupe](https://eric.sau.pe/reportlab-and-django-part-1-the-set-up-and-a-basic-example/)
 * [How to Generate PDF Invoice in Python - CodeSpeedy](https://www.codespeedy.com/how-to-generate-pdf-invoice-in-python/#:~:text=As%20we%20know%20Python%20supports,based%20on%20your%20graphics%20commands.)
 * [InvoiceGenerator · PyPI](https://pypi.org/project/InvoiceGenerator/)
 * [InvoiceGenerator — InvoiceGenerator documentation](https://invoicegenerator.readthedocs.io/en/latest/)
