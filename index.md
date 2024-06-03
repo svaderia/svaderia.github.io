@@ -2,7 +2,9 @@
 title : Shyamal Vaderia
 layout: single
 author_profile: true
-classes: wide
+classes: 
+  - wide
+  - hide-title
 ---
 
 I am currently pursuing a *Master of Science in Information Networking* at *Carnegie Mellon University*. 
