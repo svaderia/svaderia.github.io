@@ -24,6 +24,7 @@ Hosted on GitHub :octocat: Pages.
 - [ ] Update the favicon of the site
 - [ ] Read about link rot, and do something for the pages you have bookmarked, or refered, or saved.[^2]
 - [ ] Add Dark mode? [^3]
+- [ ] Create the *Blogs I like* and *Books I read*
 
 
 
