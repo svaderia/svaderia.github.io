@@ -1,7 +1,7 @@
 ---
 title: "Policy Based Data Structure in CPP"
-tags: [dsa, pbds]
-excerpt: "Very brief note on PBDS"
+tags: [dsa, pbds, notes]
+excerpt: "Very brief notes on PBDS"
 ---
 
 > Check [References](#references) for more thorough understanding.
