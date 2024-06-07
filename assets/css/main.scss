@@ -55,3 +55,7 @@ code.language-plaintext:not(h1 code.language-plaintext):not(h2 code.language-pla
   color: #d14;
   border: 1px solid #b6b6b6;
 }
+
+.page__content .archive__item-excerpt {
+    font-size: $type-size-6; 
+}

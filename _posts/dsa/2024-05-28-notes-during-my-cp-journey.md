@@ -1,6 +1,6 @@
 ---
 title: "Notes during my CP journey"
-tags: [dsa]
+tags: [dsa, notes]
 excerpt: "This will always be WIP"
 ---
 
@@ -38,3 +38,12 @@ Idea is to go back and learn about these topics.
 - [ ] Sparse Table
 - [ ] Segment Tree
 - [ ] And more...
+
+
+## Other Notes
+{% for post in site.posts %}
+  {% if post.tags contains "dsa" and post.tags contains "notes" %}
+      {% if post.id == page.id %}{% continue %}{% endif %}
+      {% include custom-archive-single.html %}
+  {% endif %}
+{% endfor %}
