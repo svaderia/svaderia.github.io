@@ -13,11 +13,13 @@ F F F F F F T T T T T
           A B  
 ```
 
-A : Last element where the condition is false.  
-B : First element where the condition is true.
+`Point A` : Last element where the condition is false.  
+`Point B` : First element where the condition is true.
 
 
 ```cpp
+// Goal : Find first `True` in [l, r) interval
+
 int l = 0, r = mx;
 while(l < r){
     int m = l + (r - l) / 2;
@@ -28,9 +30,10 @@ while(l < r){
     }
 }
 
+cout << l << endl;
+
 // l        == Point B
 // l - 1    == Point A
-
 ```
 
 [^1]: For the normal binary search to find the position of given value in the array, the `f(val)` can be `val >= search_term`.
@@ -104,3 +107,6 @@ cout << l << endl;
 
 [ternary_search]: https://cp-algorithms.com/num_methods/ternary_search.html
 [wk]: https://en.wikipedia.org/wiki/Ternary_search
+
+## Reference
+* [Binary search and other "halving" methods - nor's blog](https://nor-blog.codeberg.page/posts/2021-11-07-binary-search/)
