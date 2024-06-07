@@ -26,3 +26,15 @@ Since I am starting this very recently, it will definetly not contain a note for
 * You should analyse the invariants of a tree before coming up with a solution. [Example Problem](https://codeforces.com/contest/1975/problem/E)
 * [CSES](https://cses.fi/) related notes are on [CSES Notes](/dsa/cses) page.
 
+## Topics 
+These come up often in my rating range and I need to be good at them before being able to move upwards. 
+I have started gathering this topics just now, based on the topics of the problem I am unable to solve.  
+Idea is to go back and learn about these topics. 
+
+- [X] Dynamic Programming
+- [X] BFS
+- [X] DFS
+- [ ] String Hashing
+- [ ] Sparse Table
+- [ ] Segment Tree
+- [ ] And more...
