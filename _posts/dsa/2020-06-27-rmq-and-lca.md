@@ -4,7 +4,16 @@ tags: [dsa, rmq]
 excerpt: Ways of solving RMQ problems and reducing LCA to RMQ
 ---
 
-# Articles
+Range Minimum Queries (RMQ) and similar type of problems could be solved by many data structures. 
+
+[Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html) is one such data structure. Generally at my level Sparse Table or Segment Tree is all I will need for these problems. 
+So the advance structures could be saved for later when I am better. 
+
+## Introductory Articles
+* [Sparse Table - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/sparse-table.html)
+> TODO: move some articles from below to here. 
+
+## Advance Articles
 * [Topcoder: Range minimum query and lowest common ancestor](https://www.topcoder.com/community/competitive-programming/tutorials/range-minimum-query-and-lowest-common-ancestor/)
     - Basics of solving RMQ with different data structures and the comparisons between them
     - Sparse Table intro
@@ -27,13 +36,13 @@ excerpt: Ways of solving RMQ problems and reducing LCA to RMQ
 * [Arpa's Trick](https://codeforces.com/blog/entry/48994)
     - Solving RMQ problem using DSU
 
-# Problems
+## Problems
 * [SPOJ - DISQUERY](https://www.spoj.com/problems/DISQUERY/)
     - Calculate something in the path from `u` to `v`
 
 * [CodeChef - TALCA](https://www.codechef.com/problems/TALCA)
     - Change the root of the tree and find new LCA
 
-# Practice
+## Practice
 * [cp-algorithms](https://cp-algorithms.com/graph/lca.html)
 * [LCA Problems](https://codeforces.com/blog/entry/43917)
