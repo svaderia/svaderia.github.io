@@ -21,6 +21,21 @@ Since I am starting this very recently, it will definetly not contain a note for
 * You should analyse the invariants of a tree before coming up with a solution. [Example Problem](https://codeforces.com/contest/1975/problem/E)
 * [CSES](https://cses.fi/) related notes are on [CSES Notes](/dsa/cses) page.
 
+### How to iterate over all the subsets of given mask.
+> Reference: [Enumerating submasks of a bitmask](https://cp-algorithms.com/algebra/all-submasks.html)
+
+Imagine you have a `mask` which represent a set. You want to iterate over all the subsets of this `mask`
+efficiently. If there are `k` bits set in this mask, we would be iterating `2^k` times. 
+
+```cpp
+// subset = 0, needs to be handled separetly after the loop.
+for(int subset = mask; subset > 0; subset = (subset - 1) & mask){
+
+}
+```
+When you iterate over all the mask of size `N`, and for each mask iterate over the subset of mask, 
+The alogrithm will be ***O(3<sup>N</sup>)***.
+
 ## Problems
 
 * [D. XORificator](https://codeforces.com/contest/1977/problem/D): Teaches you how to hash a state with the minimum collision probability.
