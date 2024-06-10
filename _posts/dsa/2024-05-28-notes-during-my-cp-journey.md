@@ -12,19 +12,18 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 {: .notice--info}
 
 We will have 2 categories vaguely,  
-1. Problems: Collection of good problems and what I learned from each.  
-2. General: Any other general tips or notes.
-
+1. General: Any other general tips or notes.
+2. Problems: Collection of good problems and what I learned from each.  
 
 Since I am starting this very recently, it will definetly not contain a note for everything.
-
-## Problems
-
-* [D. XORificator](https://codeforces.com/contest/1977/problem/D): Teaches you how to hash a state with the minimum collision probability.
 
 ## General
 * You should analyse the invariants of a tree before coming up with a solution. [Example Problem](https://codeforces.com/contest/1975/problem/E)
 * [CSES](https://cses.fi/) related notes are on [CSES Notes](/dsa/cses) page.
+
+## Problems
+
+* [D. XORificator](https://codeforces.com/contest/1977/problem/D): Teaches you how to hash a state with the minimum collision probability.
 
 ## Topics 
 These come up often in my rating range and I need to be good at them before being able to move upwards. 
