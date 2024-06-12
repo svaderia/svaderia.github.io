@@ -24,7 +24,9 @@ Hosted on GitHub :octocat: Pages.
 - [ ] Update the favicon of the site
 - [ ] Read about link rot, and do something for the pages you have bookmarked, or refered, or saved.[^2]
 - [ ] Add Dark mode? [^3]
-- [ ] Create the *Blogs I like* and *Books I read*
+- [ ] Create the *Blogs I like* and *Books I read*, along with *Tools I use* 
+- [ ] Change the *All* page to *Recent* page, and have a button there that points to *All* page.
+- [ ] Add a new navigation on DSA page. 
 
 
 
