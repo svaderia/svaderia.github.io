@@ -11,19 +11,21 @@ or some good blogs I read,
 or some good C++ tips, basically anything which I would like to rememeber in future.
 {: .notice--info}
 
-We will have 2 categories vaguely,  
-1. General: Any other general tips or notes.
-2. Problems: Collection of good problems and what I learned from each.  
-
-Since I am starting this very recently, it will definetly not contain a note for everything.
-
 ## General
 * You should analyse the invariants of a tree before coming up with a solution. [Example Problem](https://codeforces.com/contest/1975/problem/E)
 * [CSES](https://cses.fi/) related notes are on [CSES Notes](/dsa/cses) page.
-* Do you remember how to implement `Heap` using an array, you tend to forget. Read online if you don't remember
-  - `insert`, `pop_min`, `build`[^1]
+* Implement `Heap` using an array, you tend to forget. Read online if you don't remember.
+  - Support Operation : `insert`, `pop_min`, `build`[^1]
+* Find *K<sup>th</sup>* Order statastic in ***O(N)*** [^2] 
+* Solve the running median problem[^3]
+* For each `i` find a **nearest** `j` such that `j < i` && `a[j] < a[i]`.[^4]
+
 
 [^1]: Should be linear.
+[^2]: If you forgot, use the idea of Quicksort, choose a random element and divide the Array into two parts.
+[^3]: Use two heaps. See the CSES [problem](https://cses.fi/problemset/task/1076) solution.
+[^4]: You can use stack for this. 
+
 
 ### Bitmask DP
 > [Bitmask Dynamic Programming - Algorithm Live](https://www.youtube.com/watch?v=rlTkd4yOQpE)  
