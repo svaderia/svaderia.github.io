@@ -20,7 +20,10 @@ Since I am starting this very recently, it will definetly not contain a note for
 ## General
 * You should analyse the invariants of a tree before coming up with a solution. [Example Problem](https://codeforces.com/contest/1975/problem/E)
 * [CSES](https://cses.fi/) related notes are on [CSES Notes](/dsa/cses) page.
+* Do you remember how to implement `Heap` using an array, you tend to forget. Read online if you don't remember
+  - `insert`, `pop_min`, `build`[^1]
 
+[^1]: Should be linear.
 
 ### Bitmask DP
 > [Bitmask Dynamic Programming - Algorithm Live](https://www.youtube.com/watch?v=rlTkd4yOQpE)  
