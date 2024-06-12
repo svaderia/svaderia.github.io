@@ -87,6 +87,7 @@ Idea is to go back and learn about these topics.
 
 
 ## Other Notes
+> I would move it to the side bar. Showing my information is not helping anyone. 
 {% for post in site.posts %}
   {% if post.tags contains "dsa" and post.tags contains "notes" %}
       {% if post.id == page.id %}{% continue %}{% endif %}
