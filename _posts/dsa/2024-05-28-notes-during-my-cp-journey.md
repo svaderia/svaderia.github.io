@@ -68,6 +68,7 @@ Idea is to go back and learn about these topics.
 - [X] Dynamic Programming
 - [X] BFS
 - [X] DFS
+- [X] Binary Search
 - [ ] String Hashing
 - [ ] Sparse Table
 - [ ] Segment Tree
