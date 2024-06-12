@@ -68,10 +68,16 @@ I have started gathering this topics just now, based on the topics of the proble
 
 Idea is to go back and learn about these topics. 
 
+- [X] Brute Force
 - [X] Dynamic Programming
+- [X] Binary Search
+- [X] nCr, nPr
 - [X] BFS
 - [X] DFS
-- [X] Binary Search
+- [ ] Dijkstra
+- [ ] Binary Indexed Tree
+- [ ] Mod Inverse
+- [ ] Bit masks
 - [ ] String Hashing
 - [ ] Sparse Table
 - [ ] Segment Tree
