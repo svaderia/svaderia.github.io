@@ -28,6 +28,11 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 [^4]: You can use stack for this. 
 
 * Implement **Union-Find** (aka *Disjoint Set Union*) data structure with array.
+* Explain *Rank-Heuristic* and/or *Size Heuristic* for DSU?[^5]
+* Explain *Path Compression* in DSU and it's time complexity.[^5]
+
+[^5]: [Disjoint Set Union - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/disjoint_set_union.html#union-by-size-rank). Look at the applications of DSU here, pretty neat stuff.
+
 
 ### Bitmask DP
 > [Bitmask Dynamic Programming - Algorithm Live](https://www.youtube.com/watch?v=rlTkd4yOQpE)  
