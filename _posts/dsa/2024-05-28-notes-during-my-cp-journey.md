@@ -13,19 +13,21 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 
 ## General
 * You should analyse the invariants of a tree before coming up with a solution. [Example Problem](https://codeforces.com/contest/1975/problem/E)
-* [CSES](https://cses.fi/) related notes are on [CSES Notes](/dsa/cses) page.
+
+#### Some problems you should know intimately
 * Implement `Heap` using an array, you tend to forget. Read online if you don't remember.
   - Support Operation : `insert`, `pop_min`, `build`[^1]
 * Find *K<sup>th</sup>* Order statastic in ***O(N)*** [^2] 
 * Solve the running median problem[^3]
 * For each `i` find a **nearest** `j` such that `j < i` && `a[j] < a[i]`.[^4]
-
+* Implement a **Queue** using two **Stacks**.
 
 [^1]: Should be linear.
 [^2]: If you forgot, use the idea of Quicksort, choose a random element and divide the Array into two parts.
 [^3]: Use two heaps. See the CSES [problem](https://cses.fi/problemset/task/1076) solution.
 [^4]: You can use stack for this. 
 
+* Implement **Union-Find** (aka *Disjoint Set Union*) data structure with array.
 
 ### Bitmask DP
 > [Bitmask Dynamic Programming - Algorithm Live](https://www.youtube.com/watch?v=rlTkd4yOQpE)  
