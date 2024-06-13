@@ -30,8 +30,13 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 * Implement **Union-Find** (aka *Disjoint Set Union*) data structure with array.
 * Explain *Rank-Heuristic* and/or *Size Heuristic* for DSU?[^5]
 * Explain *Path Compression* in DSU and it's time complexity.[^5]
+* Let all elements in sets have some weights. Add the following operations to Disjoint Sets: 1) increase all weights in the given set by `d`, 2) find the current weight of the element `x`.[^6]
+* There is an empty graph. There are two types of queries: 1) add an edge 2) find the number of connected components that are bipartite graphs.[^5]
+* Given an array a, filled with zeros. There are two types of queries: 1) `a[i] := 1` 2) find the nearest zero to i.[^7]
 
 [^5]: [Disjoint Set Union - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/disjoint_set_union.html#union-by-size-rank). Look at the applications of DSU here, pretty neat stuff.
+[^6]: [How to implement Add weight to component operation in DSU? - Codeforces](https://codeforces.com/blog/entry/130417)
+[^7]: Combine the idea from [here](https://cp-algorithms.com/data_structures/disjoint_set_union.html#compress-jumps-along-a-segment-painting-subarrays-offline) to solve the problem. Basically maintain the nearest zero to left and nearest zero to right in two different DSU.
 
 
 ### Bitmask DP
