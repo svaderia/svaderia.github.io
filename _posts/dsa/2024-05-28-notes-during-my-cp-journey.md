@@ -38,6 +38,9 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 [^6]: [How to implement Add weight to component operation in DSU? - Codeforces](https://codeforces.com/blog/entry/130417)
 [^7]: Combine the idea from [here](https://cp-algorithms.com/data_structures/disjoint_set_union.html#compress-jumps-along-a-segment-painting-subarrays-offline) to solve the problem. Basically maintain the nearest zero to left and nearest zero to right in two different DSU.
 
+* Check if graph is bipartite.[^8]
+
+[^8]: 1) Means the graph doesn't contain any cycle of odd length. 2) Also means the graph is 2-colorable.
 
 ### Bitmask DP
 > [Bitmask Dynamic Programming - Algorithm Live](https://www.youtube.com/watch?v=rlTkd4yOQpE)  
