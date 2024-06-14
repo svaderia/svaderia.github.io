@@ -60,6 +60,11 @@ for(int mask = 0; mask < (1 << N); mask++){
 }
 ```
 
+*Bonus Questions*:  [^11]
+1. Check if the given mask contains consecutive ones?
+2. Check for the given mask, if there are any consecutive ones, there are even number of consecutive ones. (i.e. 1111 is true, 1110 is false)
+
+[^11]: See solution of Counting Tilings in this [blog](https://codeforces.com/blog/entry/111675).
 ### How to iterate over all the subsets of given mask.
 > Reference: [Enumerating submasks of a bitmask](https://cp-algorithms.com/algebra/all-submasks.html)
 
