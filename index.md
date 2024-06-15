@@ -38,5 +38,5 @@ I intend to restructure this website and plan to start publishing all my WIP lea
     <p id="quote">Loading</p>
     <footer id="attribution"></footer>
 </div>
-<p class="quote-info"><a href="/path-to-your-post">What's this?</a></p>
+<p class="quote-info"><a href="https://github.com/svaderia/quote-of-the-day">What's this?</a></p>
 </div>
