@@ -59,3 +59,40 @@ code.language-plaintext:not(h1 code.language-plaintext):not(h2 code.language-pla
 .page__content .archive__item-excerpt {
     font-size: $type-size-6; 
 }
+
+
+// source: chatgpt, it is better at this than me
+.quote-of-the-day {
+  border-left: 4px solid #3498db; // Blue border to match theme colors
+  margin-bottom: 0 !important; // Spacing around the quote
+  padding: 10px 20px; // Padding inside the quote block
+  font-style: italic; // Italicize the quote text
+}
+
+.quote-of-the-day p {
+  font-size: 1.2em; // Slightly larger text for the quote
+  margin-bottom: 0.8em !important; // Spacing around the quote
+  color: #555; // Darker text color
+}
+
+.quote-of-the-day footer {
+  text-align: right; // Align author name to the right
+  font-size: 0.9em; // Smaller text for the author name
+  color: #888; // Lighter color for the author name
+}
+
+.quote-info {
+  font-size: 0.8em; // Small text for the "What's this?" link
+  text-align: right; // Align the text to the right
+  margin-top: 5px; // Small margin above the link
+}
+
+.quote-info a {
+  font-size: 0.8em; // Small text for the "What's this?" link
+  color: #3498db; // Match the color to the border
+  text-decoration: none; // Remove underline
+}
+
+.quote-info a:hover {
+  text-decoration: underline; // Underline on hover for better UX
+}

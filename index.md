@@ -17,7 +17,7 @@ My interest have evolved over time, starting with Machine Learning during my und
 Nowadays I am really into computer systems, and CMU offers endless courses and opportunities to test myself.
 I'm also passionate about Data Structures and Algorithms. I try to participate in online competitions, whenever I can, to deepen my understanding. 
 
-The logo of this website is an Order 2 pseudo-Hilbert curve; a basic block of space-filling curve also known as Hilbert's curve.
+The logo of this website is an Order 2 pseudo-[Hilbert curve][hc]; a basic block of space-filling curve also known as Hilbert's curve.
 Formally, space-filling curve is a function that gives a bijective mapping from *1D* line to *2D* space.
 I see myself mimicking the space-filling curve in a totally different context, as one who is trying to bridge the gaps in his knowledge.
 That kind of justifies the name of this website in a poetic way.
@@ -26,4 +26,17 @@ I planned to make this website an extensive place to keep my notes and share my 
 Very recently, I came across the concept of a [digital garden](https://joelhooks.com/digital-garden).
 I intend to restructure this website and plan to start publishing all my WIP learning. Maybe I will write an article on how I plan to change my note-taking approach.
 
-> PS: Check out this amazing explanation on [Hilbert's curve](https://www.youtube.com/watch?v=3s7h2MHQtxc) by Grant Sanderson.
+[hc]: https://www.youtube.com/watch?v=3s7h2MHQtxc 
+
+<hr>
+
+<script src="{{ '/assets/js/quote.js' | relative_url }}"></script>
+
+
+<div>
+<div class="quote-of-the-day notice">
+    <p id="quote">Loading</p>
+    <footer id="attribution"></footer>
+</div>
+<p class="quote-info"><a href="/path-to-your-post">What's this?</a></p>
+</div>
