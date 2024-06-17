@@ -41,6 +41,8 @@ dsa:
         url: /dsa/binary-search-notes
       - title: "PBDS"
         url: /dsa/policy-based-data-structure-in-cpp
+      - title: "Segment Trees"
+        url: /dsa/segment-trees
   - title: "Notes"
     url: /dsa/notes-during-my-cp-journey/
     children:
