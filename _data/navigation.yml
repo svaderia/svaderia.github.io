@@ -33,3 +33,30 @@ posts:
         url: /resources/
       - title: "Wiki"
         url: /wiki/
+dsa:
+  - title: "Data structures"
+    url: /dsa
+    children:
+      - title: "Binary Search"
+        url: /dsa/binary-search-notes
+      - title: "PBDS"
+        url: /dsa/policy-based-data-structure-in-cpp
+  - title: "Notes"
+    url: /dsa/notes-during-my-cp-journey/
+    children:
+      - title : "Heap"
+        url: dsa/notes-during-my-cp-journey/#heap
+      - title : "Stack & Queue"
+        url: dsa/notes-during-my-cp-journey/#stack-and-queue
+      - title : "DSU"
+        url: dsa/notes-during-my-cp-journey/#disjoint-set-union
+      - title : "Graph"
+        url: dsa/notes-during-my-cp-journey/#graph
+  - title: "Misc"
+    children:
+      - title: "CSES Discussions"
+        url: /dsa/cses
+      - title: "Unsorted Resources"
+        url: /dsa/unsorted
+      - title: "Other"
+        url: /dsa/
