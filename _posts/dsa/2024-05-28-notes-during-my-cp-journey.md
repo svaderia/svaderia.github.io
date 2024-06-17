@@ -2,6 +2,8 @@
 title: "Notes during my CP journey"
 tags: [dsa, notes]
 excerpt: "This will always be WIP"
+toc: true
+toc_sticky: true
 ---
 
 I want to maintain this page to write small notes, and accumulate my thoughts while I am participating in CP.
