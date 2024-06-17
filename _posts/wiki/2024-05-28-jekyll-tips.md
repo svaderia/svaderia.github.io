@@ -66,3 +66,30 @@ Refer : [https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/](htt
 
 ### Include another markdown file
 [https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548](https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548)
+
+### Add markdown content in notice
+
+{% capture notice-text %}
+When you want to do multiline
+* markdown content like this
+  - you need to use a different trick
+{% endcapture %}
+
+<div class="notice--info">
+  {{ notice-text | markdownify }}
+</div>
+
+{%  raw %}
+```markdown
+{% capture notice-text %}
+When you want to do multiline
+* markdown content like this
+  - you need to use a different trick
+{% endcapture %}
+
+<div class="notice--info">
+  {{ notice-text | markdownify }}
+</div>
+
+```
+{% endraw %}
