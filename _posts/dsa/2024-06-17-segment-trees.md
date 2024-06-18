@@ -7,6 +7,11 @@ toc_sticky: true
 toc_label: "सामग्री सूची"
 ---
 
+You can find the full template on my github repository: 
+[segtree.h](https://github.com/svaderia/competitive-programming/blob/master/TEMPLATE/segtree.h) 
+[segtree_lazy.h](https://github.com/svaderia/competitive-programming/blob/master/TEMPLATE/segtree_lazy.h)
+{: .notice--info}
+
 # Basic Segment Tree
 
 As you might remember this data structure is very nice at answering range query for an *associative* operation. 
@@ -289,4 +294,5 @@ void range_update(int l, int r, segment_change &change, int id = 1){
 * [ac-library · GitHub](https://github.com/atcoder/ac-library/blob/master/document_en/lazysegtree.md)
 * [neal's library for inspiration](https://github.com/nealwu/competitive-programming/tree/master/seg_tree)
 * [Segment Tree - cp-algorithm](https://cp-algorithms.com/data_structures/segment_tree.html)
+
 
