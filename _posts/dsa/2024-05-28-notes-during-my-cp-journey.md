@@ -59,6 +59,12 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 
 [^8]: 1) Means the graph doesn't contain any cycle of odd length. 2) Also means the graph is 2-colorable.
 
+### Segment Tree
+* Implement $Range Increment$ and $Range Query$ in a segment tree.
+
+### Sparse Table
+* Implement $O(1)$ for $min$ over range.
+
 ## Bitmask DP
 > [Bitmask Dynamic Programming - Algorithm Live](https://www.youtube.com/watch?v=rlTkd4yOQpE)  
 > [Practice Problems](https://vjudge.net/article/5139)
