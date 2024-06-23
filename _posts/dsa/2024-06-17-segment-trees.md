@@ -8,7 +8,7 @@ toc_label: "सामग्री सूची"
 ---
 
 You can find the full template on my github repository: 
-[segtree.h](https://github.com/svaderia/competitive-programming/blob/master/TEMPLATE/segtree.h) 
+[segtree.h](https://github.com/svaderia/competitive-programming/blob/master/TEMPLATE/segtree.h),
 [segtree_lazy.h](https://github.com/svaderia/competitive-programming/blob/master/TEMPLATE/segtree_lazy.h)
 {: .notice--info}
 
@@ -151,7 +151,7 @@ Following code add two functionalities, increase an entire range by `d` or set a
 
 Again the default contructor of the change needs to return an $identity$ element for the mapping.
 
-`combine` method return a new `segment_change` which applies teh current change, followed by the new change.
+`combine` method return a new `segment_change` which applies the current change, followed by the new change.
 
 ```cpp
 struct segment_change {
