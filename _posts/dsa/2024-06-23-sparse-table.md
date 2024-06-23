@@ -78,3 +78,5 @@ I have yet to require a need to implement this, so I am going to leave it to my 
 
 ## Referencee
 * [Sparse Table - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/sparse-table.html)
+* [[Tutorial] Disjoint Sparse Table](https://discuss.codechef.com/t/tutorial-disjoint-sparse-table/17404)
+* [A&amp;DS S02E03. Fenwick Tree, Sparse Table - YouTube](https://www.youtube.com/watch?v=Ti_U3Q_G7yM&list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&index=21)
