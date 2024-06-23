@@ -43,6 +43,8 @@ dsa:
         url: /dsa/policy-based-data-structure-in-cpp
       - title: "Segment Trees"
         url: /dsa/segment-trees
+      - title: "Fenwick Tree"
+        url: /dsa/fenwick-tree
   - title: "Notes"
     url: /dsa/notes-during-my-cp-journey/
     children:
