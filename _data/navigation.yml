@@ -45,6 +45,8 @@ dsa:
         url: /dsa/segment-trees
       - title: "Fenwick Tree"
         url: /dsa/fenwick-tree
+      - title: "Sparse Table"
+        url: /dsa/sparse-table
   - title: "Notes"
     url: /dsa/notes-during-my-cp-journey/
     children:
