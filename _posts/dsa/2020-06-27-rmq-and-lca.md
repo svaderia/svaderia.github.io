@@ -10,13 +10,6 @@ Range Minimum Queries (RMQ) and similar type of problems could be solved by many
 So the advance structures could be saved for later when I am better. 
 
 Sparse Table can only answer idempotent function over range in $O(1)$ and not all associative functions. 
-With some more $O(N\log N)$ preprocessing you can achieve $O(1)$ query processing time.
-It is called [Disjoint Sparse Table](https://discuss.codechef.com/t/tutorial-disjoint-sparse-table/17404). 
-The blog post felt very dense initially so this [lecture](https://youtu.be/Ti_U3Q_G7yM?t=3861) might be more friendly.
-
-## Introductory Articles
-* [Sparse Table - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/sparse-table.html)
-> TODO: move some articles from below to here. 
 
 ## Advance Articles
 * [Topcoder: Range minimum query and lowest common ancestor](https://www.topcoder.com/community/competitive-programming/tutorials/range-minimum-query-and-lowest-common-ancestor/)

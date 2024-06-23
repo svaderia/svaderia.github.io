@@ -75,3 +75,6 @@ There is some bit magic involved to find the largest $j$ for each query. Or you 
 See the blog post above or the lecture for more details.
 
 I have yet to require a need to implement this, so I am going to leave it to my future self :)
+
+## Referencee
+* [Sparse Table - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/sparse-table.html)
