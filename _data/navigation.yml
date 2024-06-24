@@ -48,10 +48,10 @@ dsa:
       - title: "Sparse Table"
         url: /dsa/sparse-table
   - title: "Graph"
+    url: /dsa/graph-and-tree
     children:
       - title: "Single Source Shortest Path"
         url: /dsa/single-source-shortest-path
-
   - title: "Notes"
     url: /dsa/notes-during-my-cp-journey/
     children:

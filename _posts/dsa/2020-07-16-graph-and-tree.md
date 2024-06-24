@@ -4,6 +4,8 @@ tags: [dsa, graph]
 excerpt: All Shortest Path and MST algorithms
 ---
 
+> This page needs to be organised and partitioned down to multiple pages
+
 * A graph is bipartite if it is possible to color it using two colors. It turns out that a graph is bipartite exactly when it does not contain a cycle with an *odd* number of edges.
 
 ## Bellman–Ford algorithm
