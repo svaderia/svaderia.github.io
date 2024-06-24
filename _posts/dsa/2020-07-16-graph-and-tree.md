@@ -29,24 +29,6 @@ for (int i = 1; i <= n-1; i++) {
 ```
 * If distance reduces at n<sup>th</sup> rounds, the graph contains a negative cycle.
 
-## Dijkstra’s algorithm
-* One source shortest path
-* `O(n + m log m)`
-```c
-for (int i = 1; i <= n; i++) distance[i] = INF; distance[x] = 0;
-q.push({0,x});
-while (!q.empty()) {
-    int a = q.top().second; q.pop(); if (processed[a]) continue; processed[a] = true;
-    for (auto u : adj[a]) {
-        int b = u.first, w = u.second;
-        if (distance[a] + w < distance[b]) {
-            distance[b] = distance[a] + w;
-            q.push({-distance[b],b});
-        }
-    }
-}
-```
-
 ## Floyd–Warshall algorithm
 * All source shortest path
 * `O(`n<sup>3</sup>`)`
