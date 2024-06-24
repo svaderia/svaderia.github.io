@@ -4,26 +4,23 @@ tags: [dsa, graph]
 excerpt: "SSSP :)"
 ---
 
+Goal: Find shortest path from vertex $start$ to all the other vertexes
 
 ## Dijkstra's Algorithm
-Goal: Find shortest path from vertex $s$ to all the other vertexes
-
 Limitations: Only works with positive weights.
 
 Complexity: $O(N + M \log M)$
 ```cpp
-#define pii pair<int, int>
-#define vii vector<pii>
-#define vi vector<int>
+const int INF = 1e9 + 9; // needs to be sufficiently large
 
-vector<vii> g(n); // adjecency list
+vector<vector<pair<int, int>>> g(n); // adjecency list
 
-priority_queue<pii> q;
-vi dist(n, INF);
-vb visited(n);
+priority_queue<pair<int, int>> q;
+vector<int> dist(n, INF);
+vector<bool> visited(n);
 
-dist[s] = 0;
-q.push(mp(0, s));
+dist[start] = 0;
+q.push(make_pair(0, start));
 
 while(!q.empty()){
     int root = q.top().second;
@@ -36,11 +33,10 @@ while(!q.empty()){
 
         if(dist[child] > dist[root] + w){
               dist[child] = dist[root] + w;
-              q.push(mp(-dist[child], child));
+              q.push(make_pair(-dist[child], child));
         }
     }
 }
-
 ```
 
 ## Reference
