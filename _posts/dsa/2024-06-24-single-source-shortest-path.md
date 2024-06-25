@@ -46,6 +46,7 @@ Using this algorithm it is possible to find such negative weight cycle as well.
 
 We store the `edges` of the graph as edgelist, each tuple of the format $(to, from, weight)$.
 
+Complexity: $O(N M)$
 ```cpp
 vector<int> distance(n, INF);
 distance[v] = 0;
