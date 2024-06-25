@@ -52,6 +52,8 @@ dsa:
     children:
       - title: "Single Source Shortest Path"
         url: /dsa/single-source-shortest-path
+      - title: "All Pair Shortest path"
+        url: /dsa/all-pair-shortest-path
   - title: "Notes"
     url: /dsa/notes-during-my-cp-journey/
     children:
