@@ -67,6 +67,18 @@ If the algorithm reduces the weight in the $n^{\text{th}}$ round then the graph 
 
 You can retrieve such shortest path as metioned on this [article](https://cp-algorithms.com/graph/bellman_ford.html#retrieving-path).
 
+## Shortest Path Faster Algorithm (SPFA)
+This is an improvement over Bellman-Ford which improves it's average time complexity.  
+
+Do notice that we don't need to visit all the vertices each round to perform the relaxation.
+Let's maintain a $queue$ with the vertices which we are relaxed in current round, we notice that only such vertices can be used to relax it's neighbors in each round.
+
+Worst-Case Complexity: $O(N M)$  
+It still faster in average case, but it is possible to create a graph which makes the algorithm runs in worst case.
+
+See here for [implementation](https://cp-algorithms.com/graph/bellman_ford.html#shortest-path-faster-algorithm-spfa).
+I will add a template code here if I end up using it one day.
+
 ## Reference
 * [Dijkstra on sparse graphs - cp-algorithms](https://cp-algorithms.com/graph/dijkstra_sparse.html)
 * [Bellman-Ford - finding shortest paths with negative weights - cp-algorithms](https://cp-algorithms.com/graph/bellman_ford.html)
