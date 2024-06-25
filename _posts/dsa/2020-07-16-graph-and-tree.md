@@ -8,25 +8,6 @@ excerpt: All Shortest Path and MST algorithms
 
 * A graph is bipartite if it is possible to color it using two colors. It turns out that a graph is bipartite exactly when it does not contain a cycle with an *odd* number of edges.
 
-## Floyd–Warshall algorithm
-* All source shortest path
-* `O(`n<sup>3</sup>`)`
-```c
-for (int i = 1; i <= n; i++) {
-        for (int j = 1; j <= n; j++) {
-           if (i == j) distance[i][j] = 0;
-           else if (adj[i][j]) distance[i][j] = adj[i][j];
-           else distance[i][j] = INF;
-} }
-for (int k = 1; k <= n; k++) {
-    for (int i = 1; i <= n; i++) {
-        for (int j = 1; j <= n; j++) {
-            distance[i][j] = min(distance[i][j], distance[i][k]+distance[k][j]);
-        }
-    }
-}
-```
-
 ## Krushkal's algorithm
 * Minimum Spanning Tree
 * Use dsu and priority queue
