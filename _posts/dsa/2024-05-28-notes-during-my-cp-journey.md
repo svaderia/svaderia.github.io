@@ -60,7 +60,24 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 [^8]: 1) Means the graph doesn't contain any cycle of odd length. 2) Also means the graph is 2-colorable.
 
 ### Segment Tree
+> For all the questions, assume following:
+* $Point Update$ is always required, i.e. there are queries for $a_i = k$. 
+* All the queries are on segment $[l, r]$
+
 * Implement $Range Increment$ and $Range Query$ in a segment tree.
+* Find the value of the sum $a_l - a_{l+1} + a_{l+2} - a_{l+3} + \ldots \pm a_{r-1}$ [^81]
+* Find the value of the sum $a_l + 2a_{l+1} + 3a_{l+2} + \ldots + (r - l)a_{r-1}$ [^82]
+* Find on a given segment $[l, r]$ a subsegment $[l_1, r_1]$ $(l \leq l_1 \leq r_1 \leq r)$, the sum on which is maximum (it is enough to find this sum, but you can also find the segment) [^83]
+* Given an array $a$ of integers, find the minimum $i$ on the segment $[l, r]$, for which $a_i \geq k$ [^84]
+* There is a string of $n$ brackets. You need to process requests: 1) change the $i$-th bracket, 2):
+    - Check if the substring from $[l, r]$ is a valid brackets sequence
+    - Find the largest prefix of a substring from $[l, r]$ that is a valid sequence [^85]
+
+[^81]: change the values at the odd locations to the opposite and then the final answer will have sign change if $l$ is an odd number.
+[^82]: make two segment trees of sums, for the first one, multiply each element by their $index + 1$, second is left untouched. The find answer will be $Query1 - l * Query2$
+[^83]: very standard, maintain prefix max, suffix max, max subarray, total sum on each segment.
+[^84]: think like binary search, maintaian segment tree for max over segment, go to the left child, as long as the max over segment is greater than $k$.
+[^85]: we need check two conditions for the valid bracket sequence, 1) $\sum_{i=l}^{r} a[i] = 0$,  2) there is no negative prefix sum.
 
 ### Sparse Table
 * Implement $O(1)$ for $min$ over range.
