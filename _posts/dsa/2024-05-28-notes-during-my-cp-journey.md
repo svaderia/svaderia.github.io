@@ -60,11 +60,7 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 [^8]: 1) Means the graph doesn't contain any cycle of odd length. 2) Also means the graph is 2-colorable.
 
 ### Segment Tree
-> For all the questions, assume following:
-* $Point Update$ is always required, i.e. there are queries for $a_i = k$. 
-* All the queries are on segment $[l, r]$
-
-* Implement $Range Increment$ and $Range Query$ in a segment tree.
+There is an array $a$ of $n$ integers. You need to support $a_k = k$ and one of the following in $O(\log N)$
 * Find the value of the sum $a_l - a_{l+1} + a_{l+2} - a_{l+3} + \ldots \pm a_{r-1}$ [^81]
 * Find the value of the sum $a_l + 2a_{l+1} + 3a_{l+2} + \ldots + (r - l)a_{r-1}$ [^82]
 * Find on a given segment $[l, r]$ a subsegment $[l_1, r_1]$ $(l \leq l_1 \leq r_1 \leq r)$, the sum on which is maximum (it is enough to find this sum, but you can also find the segment) [^83]
@@ -78,6 +74,34 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 [^83]: very standard, maintain prefix max, suffix max, max subarray, total sum on each segment.
 [^84]: think like binary search, maintaian segment tree for max over segment, go to the left child, as long as the max over segment is greater than $k$.
 [^85]: we need check two conditions for the valid bracket sequence, 1) $\sum_{i=l}^{r} a[i] = 0$,  2) there is no negative prefix sum.
+
+### Lazy Segment Tree
+There is an array $a$ of $n$ integers. You need to process requests in $O(\log n)$
+
+* assign the value $x$ to all elements of the segment,  
+   change the elements of the segment $a_i = -a_i$,  
+   find the sum on the segment,  
+   find the maximum on the segment  
+* assign the value $x$ to all elements of the segment,  
+   change the elements of the segment $a_i = -a_i$,  
+   find the segment with the maximum sum  
+* assign the value $x$ to all elements of the segment,  
+   add $x$ to all elements of the segment,  
+   find the sum on the segment  
+* change the elements of the segment $a_i = \max(a_i, x)$,  
+   find the maximum on the segment  
+* change the elements of the segment $a_i = \max(a_i, x)$,  
+   change the elements of the segment $a_i = \min(a_i, x)$,  
+   find the value of $a_i$.    
+* assign the value $x$ to all elements of the segment,  
+   find the longest segment of equal numbers  
+* change the elements of the segment $a_i = a_i + x \cdot i + y$,  
+   find the sum on the segment  
+* assign the values $a_i = x \cdot i + y$ to the elements of the segment,  
+   find the maximum on the segment  
+* assign the values $a_i = x \cdot i + y$ to the elements of the segment,  
+   find the GCD of numbers on the segment  
+
 
 ### Sparse Table
 * Implement $O(1)$ for $min$ over range.
