@@ -3,5 +3,4 @@ layout: archive
 author_profile: true
 permalink: /resume/
 ---
-> The resume needs to be updated 
-<iframe src="https://drive.google.com/file/d/17q6t3CBNIjnKRWqUYNmUm0OAv__B1jIp/preview" width="100%" height="1100em"></iframe>
+<iframe src="https://drive.google.com/file/d/1VgxhE-hbK9Cl9zSf1FAW1eZ5L-NR8sSO/preview" width="100%" height="1100em"></iframe>
