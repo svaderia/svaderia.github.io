@@ -7,9 +7,10 @@ Hosted on GitHub :octocat: Pages.
 
 - [X] Make it easy to add new stuff to website. Add even small things in a folder called snippet. Inspired from [here](https://wincent.dev/snippets)
 - [X] Make everything searchable. I want to keep writing only because I can quickly find the things I liked or the things I read and want to re-read again.[^1]
+- [X] Add a new navigation on DSA page. 
+- [X] Add competitive resources better on the website. Look at the repo for the ideas.
 - [ ] Merge all the pages of experience into one, Basically Projects, Exeperience, Publication, etc.
 - [ ] Port the old blogs from gujju coder website [GujjuCoders](https://github.com/svaderia/GujjuCoders/tree/master)
-- [ ] Add competitive resources better on the website. Look at the repo for the ideas.
 - [ ] Have an automated port from notion to the website. makes life easier (maybe)
 - [ ] Let's have public TODO of things I want to do in life. Like [cryptopals](https://cryptopals.com/) challanges, or
   [pythonchallange](http://www.pythonchallenge.com/about.php), or the [distributed](https://fly.io/dist-sys/) challange, or the [notpron](http://www.notpron.com/notpron/),
@@ -26,7 +27,7 @@ Hosted on GitHub :octocat: Pages.
 - [ ] Add Dark mode? [^3]
 - [ ] Create the *Blogs I like* and *Books I read*, along with *Tools I use* 
 - [ ] Change the *All* page to *Recent* page, and have a button there that points to *All* page.
-- [ ] Add a new navigation on DSA page. 
+- [ ] DSA Home page should point to the notes. The pages which are not yet categorised, should be the only one that appear in the *other* link.
 
 
 
