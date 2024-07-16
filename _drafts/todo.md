@@ -22,3 +22,6 @@
 - [ ] Learn RUST
 - [ ] I really loved this zines concept from Julia Evans : https://wizardzines.com/ It's so cool that I want to do something like this in future :)
 - [ ] This website is also pretty awesome : https://questions.wizardzines.com/
+- [ ]
+- [ ] Modify your Polybar status line to show next lecture information like [here](https://castel.dev/post/lecture-notes-3/#automatically-changing-the-active-course), I currently use [tagbar](https://github.com/vim-airline/vim-airline)
+- [ ] Explore all your vim-plugins from [here](https://github.com/svaderia/dotfiles/tree/master/.vim/pack/bundle/start) 
