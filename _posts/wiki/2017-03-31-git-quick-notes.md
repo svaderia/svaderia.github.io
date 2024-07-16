@@ -5,6 +5,10 @@ excerpt: Git cheat sheet for reference
 ---
 > TODO: This needs to be reviewed and updated for the latest uses I do
 
+## How to check which gitignore rule is ignoring the file
+```bash
+git check-ignore --verbose <PATH>
+```
 Quick cheat sheet for the most common and forgettable things.
 
 ## Config
