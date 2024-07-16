@@ -40,4 +40,5 @@ Hosted on GitHub :octocat: Pages.
       * [danny0838/webscrapbook: A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.](https://github.com/danny0838/webscrapbook)
       * [Preventing Link Rot in my Obsidian Vault | Ben Congdon](https://benjamincongdon.me/blog/2021/09/19/Preventing-Link-Rot-in-my-Obsidian-Vault/)
       * [linkchecker/linkchecker: check links in web documents or full websites](https://github.com/linkchecker/linkchecker)
+      * [GitHub - nschloe/deadlink: :skull: Checks and fixes URLs in code and documentation.](https://github.com/nschloe/deadlink) 
 [^3]: While reading about something, I came across this [blog](https://github.com/franpersanchez/franpersanchez.github.io/tree/master) which has implemented the Dark mode
