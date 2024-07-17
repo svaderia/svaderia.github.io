@@ -8,10 +8,14 @@ description: "Hey, I'm Shyamal Vaderia, a Machine Learning enthusiast and Python
 # Projects
 
 ## Speech Recognition and classification for Hindi dialects
-<small>Jan 2018 - Present</small>
+<small>Jan 2018 - Dec 2018</small>
 
 The aim of this projects is to study different Hindi dialects. We focus to develop a system, recognizing and transcribing hindi speech and it's dialects. This project is ongoing under the supervision of **Prof. Kamlesh Tiwari** at **AIMA Labs, BITS Pilani**.
 
+## Path Finding Agent
+<small> Sep 2017 - Sep 2017 </small>
+
+Heuristic-based online terrain search aimed at finding a near-optimal solution of path cost while minimizing the computational cost using Uninformed and Informed search.
 
 ## Sarcasm Detection on Twitter dataset
 <small>Feb 2017 - April 2017</small>  
