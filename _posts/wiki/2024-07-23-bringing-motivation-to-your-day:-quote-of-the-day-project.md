@@ -4,21 +4,29 @@ tags: [jekyll, qotd]
 excerpt: "a.k.a qotd"
 ---
 
-In our busy lives, the right quote can serve as a beacon of motivation, inspiring us to push forward and seize the day. I often find myself seeking these snippets of wisdom, and I wanted a way to incorporate them into my daily routine more seamlessly. This led me to create a simple, yet effective solution: displaying a random motivational quote on my website, and eventually, as a widget on my phone.
+In our busy lives, a good quote can provide the motivation we need to keep going.
+I often look for these bits of wisdom and wanted an easy way to include them in my daily routine.
+So, I created a straightforward solution: displaying a random motivational quote on my website, and eventually, as a widget on my phone.
 
 ## The Goal
+The aim is simple: each day, a randomly selected quote from my collection is displayed.
 
-The aim is straightforward: each day, a randomly selected quote from my collection is displayed. This ensures that I start each day with a fresh dose of inspiration.
+## Basic Setup
+I don't want to write a full-fledge web service to maintain the quotes data structure.
+I decided to just have a `quote.json` file on my [github](https://github.com/svaderia/quote-of-the-day) repository.
+I will add new quotes to this json file, and use it as the data storage.
 
 ## Displaying Quotes on Your Website
 
-To achieve this, we utilize custom JavaScript and HTML, which fetches and displays a random quote from a JSON file. Here’s a step-by-step guide to setting it up on your website:
+To achieve this, we utilize custom JavaScript and HTML, which fetches and displays a random quote from the JSON file.
+
+Here’s a step-by-step guide to setting it up on your website:
 
 ### JavaScript Code
 
 This script fetches the quotes from a JSON file, selects a random quote based on the current date, and displays it on the webpage.
 
-```js
+```javascript
 document.addEventListener("DOMContentLoaded", function () {
   fetch('https://raw.githubusercontent.com/svaderia/quote-of-the-day/main/quotes.json')
     .then(response => response.json())
@@ -56,20 +64,20 @@ Add the following HTML snippet to your webpage. Ensure you link the JavaScript c
 </div>
 ```
 
-The `src` attribute in the `<script>` tag uses the Liquid format for compatibility with Jekyll. Adjust it according to your platform. The `<p>` tag with the link directs users to a blog post explaining the purpose behind this feature.
+The `src` attribute in the `<script>` tag uses the Liquid format for compatibility with Jekyll. Adjust it according to your platform.
 
-You can see this setup in action on my [website](https://svaderia.github.io). For additional styling details, refer to [this commit](https://github.com/svaderia/svaderia.github.io/commit/9704cadbca356e3d4b092c17d6bd988513c11695).
+The `<p>` tag with the link directs users to a blog post explaining the purpose behind this feature.
 
-## Future Plans: Custom Widget for iPhone
+You can see this setup in action on my [website](https://svaderia.github.io).
+For additional styling details, refer to [this commit](https://github.com/svaderia/svaderia.github.io/commit/9704cadbca356e3d4b092c17d6bd988513c11695).
 
-I plan to extend this feature to my iPhone by developing a custom widget. Stay tuned for updates on this exciting addition.
 
 ## Adding New Quotes
-
 To simplify the process of adding new quotes, I created a Python script. This script is located in the `scripts/bin/qt` file of my repository.
-
 After setting up the script, I used `stow --target=$HOME scripts` to create a symlink in my `$HOME/bin` folder. This allows me to easily add new quotes using the `qt` command.
 
-## Conclusion
+## Future Plans: Custom Widget for iPhone
+I plan to extend this feature to my iPhone by developing a custom widget. Stay tuned for updates on this exciting addition.
 
-This project is a small but meaningful attempt to infuse daily life with a bit more inspiration. By integrating random quotes into my daily routine, I hope to maintain a positive and motivated mindset. Feel free to adopt and adapt this setup for your own use, and let’s spread some motivation together!
+## Conclusion
+Feel free to adopt and adapt this setup for your own use, and let’s spread some motivation together!
