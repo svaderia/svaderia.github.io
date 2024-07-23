@@ -6,13 +6,14 @@ excerpt: "Should be possible to do this on Android as well"
 
 In my previous post, I shared how to display a random motivational quote on your website.
 Today, we'll take it a step further and create an iPhone widget that shows a new quote every day.
-This widget will use the awesome [Scriptable](https://scriptable.app/) app,
-which allows you to run JavaScript code on your iPhone and provides custom APIs to modify the widget.
-
-Here's how you can set up a widget that pulls data from a `quotes.json` file and displays it on your iPhone.
 
 
-Copy and paste the following JavaScript code into the script editor.
+## Scriptable
+We will  widget will use the awesome [Scriptable](https://scriptable.app/) app, to create our custom widget.
+Scriptable allows you to run JavaScript code on your iPhone and provides custom APIs to modify the widget.
+
+You can copy paste the following JavaScript to the Scriptable editor. 
+Like the JS on website, it pulls the data from `quotes.json` and choose the same random quote used on the website to show on your widget.
 
 ```javascript
 const URL = 'https://raw.githubusercontent.com/svaderia/quote-of-the-day/main/quotes.json';
@@ -68,5 +69,5 @@ Note that Scriptable also supports a widget on Lock Screen, but the quote needs 
 
 Here is how it looks on my phone.
 
-![](assets/images/qotd1.PNG)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/qotd1.jpeg)
 
