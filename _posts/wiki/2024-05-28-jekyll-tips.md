@@ -93,3 +93,11 @@ When you want to do multiline
 
 ```
 {% endraw %}
+
+### Include Image
+
+{% raw %}
+```md
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+```
+{% endraw %}
