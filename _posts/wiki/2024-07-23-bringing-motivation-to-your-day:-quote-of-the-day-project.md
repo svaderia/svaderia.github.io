@@ -3,6 +3,10 @@ title: "Bringing Motivation to Your Day: Quote of the Day Project"
 tags: [jekyll, qotd]
 excerpt: "a.k.a qotd"
 ---
+> This is a 3 part series, here are other parts.  
+> Part 2: [Creating an iPhone Widget for Quote of the Day](/wiki/creating-an-iphone-widget-for-quote-of-the-day/)  
+> Part 3: [Widget with transparent background for Quote of the Day](/wiki/widget-with-transparent-background-for-quote-of-the-day/)
+
 
 In our busy lives, a good quote can provide the motivation we need to keep going.
 I often look for these bits of wisdom and wanted an easy way to include them in my daily routine.
