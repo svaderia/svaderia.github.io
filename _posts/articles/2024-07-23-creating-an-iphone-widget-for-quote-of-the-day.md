@@ -71,6 +71,7 @@ Save the script with a meaningful name, such as "qotd" and add the widget to you
 
 Note that Scriptable also supports a widget on Lock Screen, but the quote needs to be small enough to view.
 
+## Example
 Here is how it looks on my phone.
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/qotd1.jpeg)
