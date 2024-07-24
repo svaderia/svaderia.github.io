@@ -77,3 +77,31 @@ if (config.runsInWidget) {
 
 Script.complete();
 ```
+
+## Transparent background for shuffled wallpapers
+The obvious limitation of the previous approach is that if your background changes you need to regenerate the cropped images for the background.
+If you don't change your background frequently, you might still be okay with updating the widget when you change.
+
+I love to shuffle my wallpapers frequently. I used *iOS* feature that sets *nature* and *city* type wallpapers every hour.
+
+Now rather than letting *iOS* decide the shufftle, I created a *Shortcut*.
+Every time this shortcut is triggered, 
+* It chooses a random photo from my photos album 
+* Crop it to appropriate dimensions
+* Save the *Cropped Photo* to a location on iCloud
+* Triggers a Scriptable Script
+  * Read the photo from the saved location on iCloud
+  * Create all the slices used for the widget. I modified the [no-background]() script a little.
+* Set the *Cropped Photo* to Wallpaper.
+
+Here is a link to the [shortcut](https://www.icloud.com/shortcuts/8998e4e3b26f40dcb37398e266a27ab3).
+You just need to have the Scriptable app installed for this shortcut to work.
+The scriptable script can be found [here](https://github.com/svaderia/quote-of-the-day/blob/main/scripts/no-background-shortcut.js).
+
+Now once you have this shortcut, you can trigger this from any automation whenever you want.
+I trigger it, once every few hours.
+
+## Example
+Here is how the transparent background looks. It is not perfect, but so is life :)
+
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/qotd2.jpeg)
