@@ -5,8 +5,8 @@ excerpt: "who likes solid colors?"
 ---
 
 > This is a 3 part series, here are other parts.  
-> Part 1: [Bringing Motivation to Your Day: Quote of the Day Project](/wiki/bringing-motivation-to-your-day-quote-of-the-day-project/)  
-> Part 2: [Creating an iPhone Widget for Quote of the Day](/wiki/creating-an-iphone-widget-for-quote-of-the-day/)  
+> Part 1: [Bringing Motivation to Your Day: Quote of the Day Project](/articles/bringing-motivation-to-your-day-quote-of-the-day-project/)  
+> Part 2: [Creating an iPhone Widget for Quote of the Day](/articles/creating-an-iphone-widget-for-quote-of-the-day/)  
 
 Now as you might have already noticed in the last post, The background of widget is not exciting.
 I don't have a good sense in design to understand which color would make this more attractive.
