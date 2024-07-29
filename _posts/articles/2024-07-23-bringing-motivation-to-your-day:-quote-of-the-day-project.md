@@ -3,10 +3,6 @@ title: "Bringing Motivation to Your Day: Quote of the Day Project"
 tags: [jekyll, qotd]
 excerpt: "a.k.a qotd"
 ---
-> This is a 3 part series, here are other parts.  
-> Part 2: [Creating an iPhone Widget for Quote of the Day](/articles/creating-an-iphone-widget-for-quote-of-the-day/)  
-> Part 3: [Widget with transparent background for Quote of the Day](/articles/widget-with-transparent-background-for-quote-of-the-day/)
-
 
 In our busy lives, a good quote can provide the motivation we need to keep going.
 I often look for these bits of wisdom and wanted an easy way to include them in my daily routine.
@@ -23,8 +19,6 @@ I will add new quotes to this json file, and use it as the data storage.
 ## Displaying Quotes on Your Website
 
 To achieve this, we utilize custom JavaScript and HTML, which fetches and displays a random quote from the JSON file.
-
-Here’s a step-by-step guide to setting it up on your website:
 
 ### JavaScript Code
 
@@ -80,8 +74,5 @@ For additional styling details, refer to [this commit](https://github.com/svader
 To simplify the process of adding new quotes, I created a Python script. This script is located in the `scripts/bin/qt` file of my repository.
 After setting up the script, I used `stow --target=$HOME scripts` to create a symlink in my `$HOME/bin` folder. This allows me to easily add new quotes using the `qt` command.
 
-## Future Plans: Custom Widget for iPhone
-I plan to extend this feature to my iPhone by developing a custom widget. Stay tuned for updates on this exciting addition.
-
-## Conclusion
-Feel free to adopt and adapt this setup for your own use, and let’s spread some motivation together!
+## Next: Create iPhone Widget
+[Creating an iPhone Widget for Quote of the Day](/articles/creating-an-iphone-widget-for-quote-of-the-day/)  

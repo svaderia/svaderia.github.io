@@ -3,10 +3,7 @@ title: "Creating an iPhone Widget for Quote of the Day"
 tags: [ios, scriptable, qotd]
 excerpt: "Should be possible to do this on Android as well"
 ---
-> This is a 3 part series, here are other parts.  
-> Part 1: [Bringing Motivation to Your Day: Quote of the Day Project](/articles/bringing-motivation-to-your-day-quote-of-the-day-project/)  
-> Part 3: [Widget with transparent background for Quote of the Day](/articles/widget-with-transparent-background-for-quote-of-the-day/)
-
+> Previously: [Bringing Motivation to Your Day: Quote of the Day Project](/articles/bringing-motivation-to-your-day-quote-of-the-day-project/)  
 
 In my previous post, I shared how to display a random motivational quote on your website.
 Today, we'll take it a step further and create an iPhone widget that shows a new quote every day.
@@ -76,3 +73,5 @@ Here is how it looks on my phone.
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/qotd1.jpeg)
 
+## Next Step: transparent widget background
+[Widget with transparent background for Quote of the Day](/articles/widget-with-transparent-background-for-quote-of-the-day/)
