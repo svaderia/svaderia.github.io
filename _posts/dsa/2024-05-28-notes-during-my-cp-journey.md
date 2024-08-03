@@ -172,3 +172,4 @@ There is an array $a$ of $n$ integers. You need to process requests in $O(\log n
 ### Sparse Table
 * Implement $O(1)$ for $min$ over range.
 
+## Footnotes
