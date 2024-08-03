@@ -18,7 +18,8 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 * You should analyse the invariants of a tree before coming up with a solution. [Example Problem](https://codeforces.com/contest/1975/problem/E)
 
 
-## Some problems you should know intimately
+## Problems you should know intimately (PYSKI)
+Or some problems that you should be able to re-solve.
 
 ### Heap
 * Implement `Heap` using an array, you tend to forget. Read online if you don't remember.
