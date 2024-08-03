@@ -34,19 +34,22 @@ posts:
       - title: "Wiki"
         url: /wiki/
 dsa:
+  - title: "General Notes"
+    url: /dsa/notes-during-my-cp-journey/
   - title: "Data structures"
-    url: /dsa
     children:
-      - title: "Binary Search"
-        url: /dsa/binary-search-notes
-      - title: "PBDS"
-        url: /dsa/policy-based-data-structure-in-cpp
       - title: "Segment Trees"
         url: /dsa/segment-trees
       - title: "Fenwick Tree"
         url: /dsa/fenwick-tree
       - title: "Sparse Table"
         url: /dsa/sparse-table
+  - title: "Algorithms"
+    children:
+      - title: "Binary Search"
+        url: /dsa/binary-search-notes
+      - title: "PBDS"
+        url: /dsa/policy-based-data-structure-in-cpp
   - title: "Graph"
     url: /dsa/graph-and-tree
     children:
@@ -54,8 +57,16 @@ dsa:
         url: /dsa/single-source-shortest-path
       - title: "All Pair Shortest path"
         url: /dsa/all-pair-shortest-path
-  - title: "Notes"
-    url: /dsa/notes-during-my-cp-journey/
+  - title: "Misc"
+    children:
+      - title: "CSES Discussions"
+        url: /dsa/cses
+      - title: "Unsorted Resources"
+        url: /dsa/unsorted
+      - title: "Other"
+        url: /dsa/other/
+  - title: "PYSKI"
+    url: /dsa/notes-during-my-cp-journey/#PYSKI
     children:
       - title : "Heap"
         url: dsa/notes-during-my-cp-journey/#heap
@@ -65,11 +76,3 @@ dsa:
         url: dsa/notes-during-my-cp-journey/#disjoint-set-union
       - title : "Graph"
         url: dsa/notes-during-my-cp-journey/#graph
-  - title: "Misc"
-    children:
-      - title: "CSES Discussions"
-        url: /dsa/cses
-      - title: "Unsorted Resources"
-        url: /dsa/unsorted
-      - title: "Other"
-        url: /dsa/
