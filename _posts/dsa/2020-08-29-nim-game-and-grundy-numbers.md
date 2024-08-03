@@ -1,6 +1,6 @@
 ---
 title: Game theory - The game of Nim
-tags: [maths, game-theory]
+tags: [dsa, maths, game-theory, other]
 excerpt: Links to Game of Nim articles and questions
 ---
 {{markdownify}}

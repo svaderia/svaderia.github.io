@@ -1,6 +1,6 @@
 ---
 title: Solving RMQ Problems
-tags: [dsa, rmq]
+tags: [dsa, rmq, other]
 excerpt: Ways of solving RMQ problems and reducing LCA to RMQ
 ---
 

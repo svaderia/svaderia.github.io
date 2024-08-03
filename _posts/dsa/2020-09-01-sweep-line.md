@@ -1,6 +1,6 @@
 ---
 title: Geometry - Sweep line
-tags: [dsa, geometry]
+tags: [dsa, geometry, other]
 excerpt: Resources for sweep line
 ---
 {{markdownify}}
