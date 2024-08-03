@@ -148,6 +148,8 @@ The alogrithm will be ***O(3<sup>N</sup>)***.
 ## Problems
 
 * [D. XORificator](https://codeforces.com/contest/1977/problem/D): Teaches you how to hash a state with the minimum collision probability.
+* [G - Count Substring Query](https://atcoder.jp/contests/abc362/tasks/abc362_g) : Do this after you learn about suffix array/tree
+https://www.geeksforgeeks.org/sum-of-xor-of-all-subarrays/
 
 ## Topics 
 These come up often in my rating range and I need to be good at them before being able to move upwards. 
