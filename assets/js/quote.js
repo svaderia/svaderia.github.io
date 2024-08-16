@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(dayToIndex => {
       // Use the day to get the index
       const index = dayToIndex[day.toString()]; // Convert day to string to match the keys in the dictionary
-      console.log(index);
+      console.log(day.toString(), index);
       if (index === undefined) {
         throw new Error(`No index found for day ${day}`);
       }
