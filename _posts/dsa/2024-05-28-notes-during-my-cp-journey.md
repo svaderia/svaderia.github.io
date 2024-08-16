@@ -15,6 +15,7 @@ or some good C++ tips, basically anything which I would like to rememeber in fut
 
 ## General
 * You should analyse the invariants of a tree before coming up with a solution. [Example Problem](https://codeforces.com/contest/1975/problem/E)
+* GCD of two number is an important concept when you want to find a common way to divide numbers. [Example Problem](https://atcoder.jp/contests/arc181/tasks/arc181_b)
 
 
 ## Bitmask DP
