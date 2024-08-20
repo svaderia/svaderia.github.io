@@ -124,7 +124,10 @@ a.k.a Problems you should know intimately
 ### Graph
 * Check if graph is bipartite.[^8]
 
+* In a given weighted undirected graph with positive edges, find the path from $source$ to $dest$ which minimises maximum-weight edge along the path.[^9]
+
 [^8]: 1) Means the graph doesn't contain any cycle of odd length. 2) Also means the graph is 2-colorable.
+[^9]: It's called minimum bottleneck path problem, refer here: [Widest path problem - Wikipedia](https://en.wikipedia.org/wiki/Widest_path_problem#Undirected_graphs). Either do the binary search on the value, and check if you use edges less than the current value, the $source$ and $destination$ are connected. Or create MST, and the maximum edge from $source$ to $dest$ is your answer.
 
 ### Segment Tree
 There is an array $a$ of $n$ integers. You need to support $a_k = k$ and one of the following in $O(\log N)$
