@@ -1,3 +1,10 @@
+---
+title: "Custom man pages"
+tags: [man, cmd]
+excerpt: "you could write your own man pages, wow"
+---
+
+
 man pages!!
 What a lovely discovery
 

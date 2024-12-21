@@ -1,3 +1,10 @@
+---
+title: "Recursive lambda fn in CPP"
+tags: [cpp]
+excerpt: "recur(recur, on, this)"
+---
+
+
 For an annonymous lambda function in Cpp, when you want to self reference it using the following way,  always put the return type in the signature.
 ```cpp
 

@@ -1,3 +1,11 @@
+---
+title: "Notes on embedded stuff"
+tags: [embedded]
+excerpt: "very bad notes, from defcon workshops"
+snippet: true
+---
+
+
 embedded protocols
 
 Mqtt

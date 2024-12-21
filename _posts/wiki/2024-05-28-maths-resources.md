@@ -1,3 +1,11 @@
+---
+title: "Maths resources"
+tags: [math]
+excerpt: "want to level up at math, someday"
+snippet: true
+---
+
+
 Some Maths Resources.
 
 

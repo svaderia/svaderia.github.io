@@ -1,3 +1,11 @@
+---
+title: "Help yourself grow, learn this"
+tags: [todo]
+excerpt: "bechmarking, profiling"
+snippet: true
+---
+
+
 Learn how to perform benchmarking and profilling.
 Look at the missing semester videos
 
