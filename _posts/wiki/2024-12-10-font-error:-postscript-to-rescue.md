@@ -2,7 +2,6 @@
 title: "Font error: postscript to rescue"
 tags: [pdf, ps, cmd]
 excerpt: "unknown and old are gold"
-snippet: true
 ---
 
 Today while printing a paper, the printer gave me unknown font error!!

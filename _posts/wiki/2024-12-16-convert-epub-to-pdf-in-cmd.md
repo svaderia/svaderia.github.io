@@ -2,7 +2,6 @@
 title: "Convert epub to pdf in cmd"
 tags: [cmd, epub, pdf]
 excerpt: "calibre to the rescue"
-snippet: true
 ---
 
 

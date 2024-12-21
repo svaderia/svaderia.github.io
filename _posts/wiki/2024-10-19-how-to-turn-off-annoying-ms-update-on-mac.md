@@ -5,4 +5,4 @@ excerpt: "Microsoft is annoying, just like windows"
 snippet: true
 ---
 
-https://superuser.com/questions/1544338/turn-off-microsoft-apps-microsoft-autoupdate-app-on-a-mac
+[Turn off Microsoft apps 'Microsoft AutoUpdate' app on a Mac - Super User](https://superuser.com/questions/1544338/turn-off-microsoft-apps-microsoft-autoupdate-app-on-a-mac) 

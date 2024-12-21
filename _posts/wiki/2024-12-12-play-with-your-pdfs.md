@@ -4,8 +4,6 @@ tags: [gs, cmd]
 excerpt: "ghostscript from ancient times"
 ---
 
-
-
 GhostScript, an unknown but powerful thing.
 
 ```bash
