@@ -6,8 +6,13 @@ excerpt: "SSSP :)"
 
 Goal: Find shortest path from vertex $v$ to all the other vertexes
 
+
 ## Dijkstra's Algorithm
 Limitations: Only works with positive weights.
+
+So for every edge $(u, v)$ we are trying to solve the problem, $dist(u) = min(dist(u), dist(v) + weight(u, v))$.   
+The second operation here could be a `max` operator rather than a `sum` operator. This will give you 
+Minimum Bottleneck Path.
 
 Complexity: $O(N + M \log M)$
 ```cpp
