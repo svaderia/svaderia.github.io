@@ -127,3 +127,17 @@ To return in a normal situation, just abort the merge:
 {% highlight bash %}
 $ git merge --abort
 {% endhighlight %}
+
+## Check a pull request locally
+
+```bash
+# Fetch the PR from the remote repository
+git fetch origin pull/<PR-number>/head:<local-branch-name>
+
+# Checkout the PR branch locally
+git checkout <local-branch-name>
+```
+
+Make sure to replace `<PR-number>` with the actual pull request number and
+`<local-branch-name>` with a descriptive name for the branch you'll check out
+locally.
