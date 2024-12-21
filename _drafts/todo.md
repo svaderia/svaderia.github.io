@@ -25,3 +25,14 @@
 - [ ]
 - [ ] Modify your Polybar status line to show next lecture information like [here](https://castel.dev/post/lecture-notes-3/#automatically-changing-the-active-course), I currently use [tagbar](https://github.com/vim-airline/vim-airline)
 - [ ] Explore all your vim-plugins from [here](https://github.com/svaderia/dotfiles/tree/master/.vim/pack/bundle/start) 
+- [ ] Setup and explore [um](https://github.com/sinclairtarget/um) and maybe port your notes to that format. It sounds so much fun
+    - Imagine all the website pages that you wanted as a notes of a tool or
+      something, all those could be these custom man pages !! Cool yeah?
+      Also, if I could do that, my workflow on note-taking could change
+      drastically. What that means is, I can have portable notes. 
+      I just then need to have an interface which ports my notes from that
+      dedicated thing to my website. This is so much fun!!! Let's go...
+    - reference : [Um – Create your own man pages so you can remember how to do stuff - Hacker News](https://news.ycombinator.com/item?id=17797355)
+             [GitHub - pjungwir/manpj: Twenty years of tech notes, viewable as man pages](https://github.com/pjungwir/manpj/)
+
+    This is so coool. I want to do this.
