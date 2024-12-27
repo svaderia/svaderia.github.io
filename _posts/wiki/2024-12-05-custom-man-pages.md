@@ -8,12 +8,9 @@ excerpt: "you could write your own man pages, wow"
 man pages!!
 What a lovely discovery
 
-[Um – Create your own man pages so you can remember how to do stuff - Hacker
-News](https://news.ycombinator.com/item?id=17797355) 
-[GitHub - sinclairtarget/um: Create and maintain your own man pages so you can
-remember how to do stuff](https://github.com/sinclairtarget/um) 
-[GitHub - pjungwir/manpj: Twenty years of tech notes, viewable as man
-pages](https://github.com/pjungwir/manpj/?tab=readme-ov-file) 
+* [Um – Create your own man pages so you can remember how to do stuff - Hacker News](https://news.ycombinator.com/item?id=17797355) 
+* [GitHub - sinclairtarget/um: Create and maintain your own man pages so you can remember how to do stuff](https://github.com/sinclairtarget/um) 
+* [GitHub - pjungwir/manpj: Twenty years of tech notes, viewable as man pages](https://github.com/pjungwir/manpj/?tab=readme-ov-file) 
 
 
 
