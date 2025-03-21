@@ -141,8 +141,7 @@ Same story as Scenario 4 with different URI (TODO: Find and confirm the URI)
 
 
 # Information Dump yard
-This that are more interesting would be moved to other section.
-
+Things that are more interesting would be moved to other sections.
 
 ## Desk clock stack trace on a sad story (Scenario 4, 5)
 ```
@@ -242,7 +241,10 @@ What if you add a custom ringtone,
 
 ### Get all the things that have directBootAware
 
+```
+build/envsetup.sh
 mangrep directBootAware
+```
 
 ### Interesting thing to note
 On an FBE-enabled device, each user of the device has two storage locations available to apps:
@@ -252,11 +254,13 @@ On an FBE-enabled device, each user of the device has two storage locations avai
 
 
 `/data/user_de/` is the place (i think) where DE data is stored.
+`/data/user_ce/` is the place (i think) where DE data is stored.
 
 ### Open source app of interest? 
 
 https://github.com/BlackyHawky/Clock -- check with dave if it's okay to install
-and run this?
+and run this?  
+
 https://github.com/Batlin/DeskClock -- less interesting tbh
 
 ### Location of Bong
