@@ -264,4 +264,53 @@ and run this?
 https://github.com/Batlin/DeskClock -- less interesting tbh
 
 ### Location of Bong
-framework/base/core/res/res/raw/fallbackring.ogg
+`frameworks/base/core/res/res/raw/fallbackring.ogg`
+
+More information about what is BONG and Where is it etc. might be found in 
+`frameworks/base/core/res/res/values/symbols.xml`
+
+### Location of other audio files in the build tree.
+`frameworks/base/data/sounds/`
+
+Dave wondered during class what would it take to add Bong with default list.
+The answer to that may lie in `frameworks/base/data/sounds/README.txt` and
+`frameworks/base/data/sounds/AllAudio.mk`
+
+### Content Observers.. This might really be useful
+
+```java
+# ./deskclock/data/AlarmModel.java
+
+    AlarmModel(Context context, SettingsModel settingsModel) {
+        mSettingsModel = settingsModel;
+
+        // Clear caches affected by system settings when system settings change.
+        final ContentResolver cr = context.getContentResolver();
+        final ContentObserver observer = new SystemAlarmAlertChangeObserver();
+        cr.registerContentObserver(Settings.System.DEFAULT_ALARM_ALERT_URI, false, observer);
+    }
+
+<-- snipped -->
+
+    /**
+     * This receiver is notified when system settings change. Cached information built on
+     * those system settings must be cleared.
+     */
+    private final class SystemAlarmAlertChangeObserver extends ContentObserver {
+
+        private SystemAlarmAlertChangeObserver() {
+            super(new Handler(Looper.myLooper()));
+        }
+
+        @Override
+        public void onChange(boolean selfChange) {
+            super.onChange(selfChange);
+            mDefaultAlarmRingtoneUri = null;
+        }
+    }
+```
+
+### How does default ringtone's URI is set to Settings?
+It's hardcoded to some extent in the prefs in Deskclock in the following files
+`SettingModel.java`
+`RingtoneModel.java`
