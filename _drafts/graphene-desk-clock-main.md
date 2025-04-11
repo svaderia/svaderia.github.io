@@ -314,3 +314,16 @@ The answer to that may lie in `frameworks/base/data/sounds/README.txt` and
 It's hardcoded to some extent in the prefs in Deskclock in the following files
 `SettingModel.java`
 `RingtoneModel.java`
+
+
+### What happens when you change your default alarm ringtone in settings
+1. If it is one of the built-in ringtones, Settings copy it into `/data/system_de/0/ringtones/alarm_alert_cache`
+2. If you press on `+Add New` in Settings app, and add a custom ringtone. Then when you select that custom ringtone as Default, the above cache is removed. 
+  * Which means, the Custom Default Ringtone is not accessible BFU.
+  * If you do above, then the Custom Ringtone is "forever" present in the Setting Menu "Default alarm sound"
+3. DeskClock builds a list of "internal" ringtones via RingtoneLoader
+```
+            ringtoneCursors.add(this.getInternalRingtones());
+            ringtoneCursors.add(this.getMediaRingtones());
+```
+`getMediaRingtones()` is returning the any user added default ringtones to the list.
