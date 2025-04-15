@@ -327,3 +327,73 @@ It's hardcoded to some extent in the prefs in Deskclock in the following files
             ringtoneCursors.add(this.getMediaRingtones());
 ```
 `getMediaRingtones()` is returning the any user added default ringtones to the list.
+
+### How to dump the database on android phone?
+```
+adb root
+adb shell
+cd /data/user_de/0/com.android.deskclock/databases
+sqlite3 alarms.db
+sqlite> .dump
+```
+
+Interesting dump with some URIs: 
+```
+sqlite> .dump
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE android_metadata (locale TEXT);
+INSERT INTO android_metadata VALUES('en_US');
+
+CREATE TABLE alarm_templates (_id INTEGER PRIMARY KEY,hour INTEGER NOT NULL, minutes INTEGER NOT NULL, daysofweek INTEGER NOT NULL, enabled INTEGER NOT NULL, vibrate INTEGER NOT NULL, label TEXT NOT NULL, ringtone TEXT, delete_after_use INTEGER NOT NULL DEFAULT 0);
+INSERT INTO alarm_templates VALUES(1,8,30,0,0,1,'','content://settings/system/alarm_alert',0);
+INSERT INTO alarm_templates VALUES(3,14,0,0,1,1,'','content://media/external/audio/media/1000000028?title=Free_Test_Data_1MB_MP3&canonical=1',0);
+INSERT INTO alarm_templates VALUES(4,13,2,0,1,1,'','content://media/internal/audio/media/179?title=BeeBeep%20Alarm&canonical=1',0);
+INSERT INTO alarm_templates VALUES(2,9,0,0,0,1,'','content://com.android.externalstorage.documents/document/primary%3ARoot.mp3',0);
+INSERT INTO alarm_templates VALUES(3,14,0,0,1,1,'','content://com.android.externalstorage.documents/document/primary%3ARingtones%2FRingtones.mp3',0);
+INSERT INTO alarm_templates VALUES(4,13,2,0,1,1,'','content://com.android.externalstorage.documents/document/primary%3ATest%2Ftest.mp3',0);
+INSERT INTO alarm_templates VALUES(5,13,11,0,1,1,'','content://com.android.providers.downloads.documents/document/1',0);
+
+CREATE TABLE alarm_instances (_id INTEGER PRIMARY KEY,year INTEGER NOT NULL, month INTEGER NOT NULL, day INTEGER NOT NULL, hour INTEGER NOT NULL, minutes INTEGER NOT NULL, vibrate INTEGER NOT NULL, label TEXT NOT NULL, ringtone TEXT, alarm_state INTEGER NOT NULL, alarm_id INTEGER REFERENCES alarm_templates(_id) ON UPDATE CASCADE ON DELETE CASCADE);
+INSERT INTO alarm_instances VALUES(1,2025,3,15,14,0,1,'','content://com.android.externalstorage.documents/document/primary%3ARingtones%2FRingtones.mp3',1,3);
+INSERT INTO alarm_instances VALUES(2,2025,3,16,13,2,1,'','content://com.android.externalstorage.documents/document/primary%3ATest%2Ftest.mp3',0,4);
+INSERT INTO alarm_instances VALUES(3,2025,3,16,13,11,1,'','content://com.android.providers.downloads.documents/document/1',0,5);
+COMMIT;
+```
+
+Shared preferences are also magic and should be evaluated.
+```
+adb root
+adb shell
+cd /data/user_de/0/com.android.deskclock/shared_prefs
+cat com.android.deskclock_preferences.xml
+```
+
+Dump of the cat: 
+```
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="selected_tab" value="0" />
+    <string name="default_alarm_ringtone_uri">content://settings/system/alarm_alert</string>
+    <string name="home_time_zone">America/New_York</string>
+    <string name="ringtone_uri_3">content://com.android.externalstorage.documents/document/primary%3ARingtones%2FRingtones.mp3</string>
+    <boolean name="display_clock_seconds" value="false" />
+    <string name="ringtone_uri_2">content://com.android.externalstorage.documents/document/primary%3ATest%2Ftest.mp3</string>
+    <int name="intent.extra.alarm.global.id" value="1" />
+    <string name="ringtone_uri_1">content://com.android.externalstorage.documents/document/primary%3ARoot.mp3</string>
+    <int name="number_of_cities" value="1" />
+    <string name="ringtone_uri_0">content://com.android.providers.downloads.documents/document/1</string>
+    <string name="city_id_0">C78</string>
+    <set name="ringtone_ids">
+        <string>0</string>
+        <string>1</string>
+        <string>2</string>
+        <string>3</string>
+    </set>
+    <string name="ringtone_title_3">Ringtones</string>
+    <string name="ringtone_title_2">test</string>
+    <long name="next_ringtone_id" value="4" />
+    <string name="ringtone_title_1">Root</string>
+    <string name="ringtone_title_0">Donwloads</string>
+</map>
+```
