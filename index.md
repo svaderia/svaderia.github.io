@@ -13,12 +13,12 @@ I am currently pursuing my Master's thesis under the guidance of [Prof. Dave And
 Before starting my master's program, I worked at *Goldman Sachs* and *Samsung R&D* for approximately four and a half year.
 I completed my undergraduate degree in Computer Science from *Birla Institute of Technology and Science, Pilani (BITS Pilani)* in 2019.
 
-My interest have evolved over time, starting with Machine Learning during my undergrad and shifting to Computer Systems in grad school.
+My interests have evolved over time, starting with Machine Learning during my undergrad and shifting to Computer Systems in grad school.
 I have delved into Distributed Systems, Operating Systems and Systems research since joining CMU.
 I'm also passionate about Data Structures and Algorithms. I try to participate in online competitions whenever I can.
 
 Learning Rust, writing a compiler, contributing to a "real" OS and conducting
-substential research are my goals until summer. 
+substantial research are my goals until summer.
 
 The logo of this website is an Order 2 pseudo-[Hilbert curve][hc]; a basic block of space-filling curve also known as Hilbert's curve.
 Formally, space-filling curve is a function that gives a bijective mapping from *1D* line to *2D* space.
