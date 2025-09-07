@@ -17,8 +17,11 @@ My interests have evolved over time, starting with Machine Learning during my un
 I have delved into Distributed Systems, Operating Systems and Systems research since joining CMU.
 I'm also passionate about Data Structures and Algorithms. I try to participate in online competitions whenever I can.
 
-Learning Rust, writing a compiler, contributing to a "real" OS and conducting
-substantial research are my goals until summer.
+After falling in love with Rust, this semester I will be focusing on my master's
+thesis, how internet works and how Deep Learning systems like PyTorch do what
+they do. This will be my last semester among some of the amazing minds at CMU,
+can't wait for what's next. After I graduate I should write about my time at
+CMU.
 
 The logo of this website is an Order 2 pseudo-[Hilbert curve][hc]; a basic block of space-filling curve also known as Hilbert's curve.
 Formally, space-filling curve is a function that gives a bijective mapping from *1D* line to *2D* space.
